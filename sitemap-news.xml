@@ -1,6 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/top-5-batterie-accumulo-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T08:00:00+02:00</news:publication_date>
+      <news:title>Le 5 migliori batterie di accumulo per fotovoltaico del 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/cer-condominio-caso-studio.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T08:00:00+02:00</news:publication_date>
+      <news:title>Comunità energetica in condominio: come funziona davvero, con i numeri</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/prezzario-regionale-lavori-edili-guida.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T08:00:00+02:00</news:publication_date>
+      <news:title>Prezzario regionale dei lavori edili: cos&#x27;è e come si usa davvero</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/caldaia-condensazione-o-pompa-di-calore.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T08:00:00+02:00</news:publication_date>
+      <news:title>Caldaia a condensazione o pompa di calore: il confronto onesto del 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/sostituzione-infissi-condominio-iter.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T08:00:00+02:00</news:publication_date>
+      <news:title>Sostituire gli infissi in condominio: iter, delibere e regole del 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/edilizia-scolastica-pnrr-cantieri.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:00:00+02:00</news:publication_date>
+      <news:title>Edilizia scolastica e PNRR: a che punto sono i cantieri delle scuole italiane</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/isolamento-interno-pareti-guida.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:00:00+02:00</news:publication_date>
+      <news:title>Isolare le pareti dall&#x27;interno: materiali, costi e errori da evitare nel 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T08:00:00+02:00</news:publication_date>
+      <news:title>Pannelli fotovoltaici TOPCon, HJT e PERC: quale tecnologia conviene nel 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/normativa-antincendio-edilizia-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T08:00:00+02:00</news:publication_date>
+      <news:title>Normativa antincendio in edilizia: la guida 2026 per imprese e progettisti</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/vetri-basso-emissivi-selettivi-guida.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T08:00:00+02:00</news:publication_date>
+      <news:title>Vetro basso emissivo e selettivo: come scegliere la vetrocamera giusta nel 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/bonus-mobili-2026-guida.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T08:00:00+02:00</news:publication_date>
+      <news:title>Bonus mobili ed elettrodomestici 2026: regole, massimali ed errori da evitare</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/posa-in-opera-infissi-guida.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T08:00:00+02:00</news:publication_date>
+      <news:title>Posa in opera certificata degli infissi: perché vale quanto il serramento</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.ilgiornaleedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Il Giornale Edile</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T08:00:00+02:00</news:publication_date>
+      <news:title>Batterie di accumulo fotovoltaico: prezzi, taglie e quando conviene davvero</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.ilgiornaleedile.it/articoli/bonus-ristrutturazione-2026-guida-completa.html</loc>
     <news:news>
       <news:publication>

@@ -10,6 +10,8 @@
 - [Infissi in PVC, alluminio o legno: il confronto definitivo](https://www.ilgiornaleedile.it/articoli/infissi-pvc-alluminio-legno-confronto.html): trasmittanza, acustica, durata, manutenzione e costi al mq.
 - [Superbonus 2026: cosa resta e come accedere](https://www.ilgiornaleedile.it/articoli/superbonus-2026-cosa-resta.html): aliquote residue, scadenze e recupero delle detrazioni.
 - [Comunità energetiche (CER): cosa sono e quanto si guadagna](https://www.ilgiornaleedile.it/articoli/comunita-energetiche-cer-guida.html): incentivo ventennale e costituzione passo passo.
+- [Accumulo fotovoltaico: la guida completa 2026](https://www.ilgiornaleedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html): prezzi per taglia, chimiche LFP e NMC, dimensionamento in kWh e detrazione 50%.
+- [Posa in opera degli infissi: la guida 2026](https://www.ilgiornaleedile.it/articoli/posa-in-opera-infissi-guida.html): fasi, materiali, costi al mq ed errori da evitare nell'installazione.
 - [Tutte le guide e le Top 5](https://www.ilgiornaleedile.it/guide.html): indice completo di guide e classifiche redazionali.
 
 ## Categorie
@@ -23,6 +25,19 @@
 
 ## Ultimi articoli
 
+- [Le 5 migliori batterie di accumulo per fotovoltaico del 2026](https://www.ilgiornaleedile.it/articoli/top-5-batterie-accumulo-2026.html): Tesla, BYD, Huawei, Pylontech e Sonnen a confronto su capacità, cicli, garanzia e prezzi.
+- [Comunità energetica in condominio: il caso studio](https://www.ilgiornaleedile.it/articoli/cer-condominio-caso-studio.html): costituzione, incentivo, riparto tra condomini e numeri reali.
+- [Prezzario regionale lavori edili: la guida 2026](https://www.ilgiornaleedile.it/articoli/prezzario-regionale-lavori-edili-guida.html): come si legge una voce, dove scaricarlo e quando è obbligatorio.
+- [Caldaia a condensazione o pompa di calore nel 2026?](https://www.ilgiornaleedile.it/articoli/caldaia-condensazione-o-pompa-di-calore.html): costi, consumi reali, incentivi e quando conviene davvero.
+- [Sostituire gli infissi in condominio: l'iter completo](https://www.ilgiornaleedile.it/articoli/sostituzione-infissi-condominio-iter.html): delibera, decoro architettonico, maggioranze e detrazioni.
+- [Isolare le pareti dall'interno: la guida completa](https://www.ilgiornaleedile.it/articoli/isolamento-interno-pareti-guida.html): materiali, contropareti, costi al mq, rischio condensa e detrazioni.
+- [Edilizia scolastica e PNRR: il punto sui cantieri](https://www.ilgiornaleedile.it/articoli/edilizia-scolastica-pnrr-cantieri.html): cantieri aperti, fondi stanziati e tempi di gara.
+- [Pannelli fotovoltaici TOPCon, HJT e PERC a confronto](https://www.ilgiornaleedile.it/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html): efficienza, resa reale, degrado, garanzie e prezzi 2026.
+- [Normativa antincendio in edilizia 2026](https://www.ilgiornaleedile.it/articoli/normativa-antincendio-edilizia-2026.html): Codice di prevenzione incendi, SCIA, adempimenti in cantiere e responsabilità.
+- [Vetro basso emissivo e selettivo: la guida 2026](https://www.ilgiornaleedile.it/articoli/vetri-basso-emissivi-selettivi-guida.html): valori Ug e fattore solare g, doppio o triplo vetro, costi e detrazioni.
+- [Bonus mobili 2026: regole e massimali](https://www.ilgiornaleedile.it/articoli/bonus-mobili-2026-guida.html): detrazione 50%, massimale 5.000 euro, requisiti e pagamenti tracciati.
+- [Posa in opera certificata degli infissi](https://www.ilgiornaleedile.it/articoli/posa-in-opera-infissi-guida.html): perché l'installazione vale quanto il serramento.
+- [Batteria di accumulo fotovoltaico: guida 2026](https://www.ilgiornaleedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html): dimensionamento in kWh e quando conviene davvero.
 - [Mercato immobiliare 2026: prezzi, trend e città dove investire](https://www.ilgiornaleedile.it/articoli/mercato-immobiliare-2026-prezzi.html): quadro aggiornato dei prezzi nelle principali città italiane.
 - [Quanto costa ristrutturare casa nel 2026: prezzi al mq](https://www.ilgiornaleedile.it/articoli/costo-ristrutturazione-al-mq-2026.html): prezzi voce per voce per intervento leggero, medio e completo.
 - [Direttiva Case Green UE: cosa cambia dal 2026](https://www.ilgiornaleedile.it/articoli/direttiva-case-green-cosa-cambia.html): obblighi di riqualificazione e tappe al 2030.

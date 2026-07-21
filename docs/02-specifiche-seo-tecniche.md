@@ -26,7 +26,7 @@
 
 ## 2. Gerarchia dei titoli
 
-- **Un solo H1 per pagina**, coincidente con `itemprop="headline"` (verificato: 49/49).
+- **Un solo H1 per pagina**, coincidente con `itemprop="headline"` (verificato: 62/62).
 - Home: H1 assente di proposito — il brand è nel logo `img` con alt descrittivo; le sezioni usano H2.
   (Nota: valutare in futuro un H1 nascosto visivamente per la home.)
 - Articoli: H1 → H2 di sezione con `id` per le ancore TOC → H3 interni. Sidebar e widget
@@ -72,7 +72,7 @@ Con `name`, `description`, `isPartOf: WebSite`. Pagine servizio: nessun JSON-LD 
 
 ## 4. Policy canonical e date
 
-- Canonical autoreferenziale assoluto su tutte le 49 pagine; niente parametri, niente paginazioni.
+- Canonical autoreferenziale assoluto su tutte le 62 pagine; niente parametri, niente paginazioni.
 - Date esposte tre volte in modo coerente: meta `article:published_time` / `article:modified_time`,
   `<time datetime itemprop="datePublished">` visibile, `datePublished/dateModified` in JSON-LD.
   Lo stesso valore alimenta `lastmod` di sitemap.xml al build.
@@ -128,18 +128,18 @@ meta-externalagent, Applebot-Extended. Commento in testa che dichiara la policy
 
 ## 9. Sitemap XML e News
 
-- `sitemap.xml`: 49 URL, `lastmod` reale per gli articoli (da `article:modified_time`),
+- `sitemap.xml`: 62 URL, `lastmod` reale per gli articoli (da `article:modified_time`),
   priorità/changefreq graduate (home 1.0/daily → servizio 0.3/yearly).
-- `sitemap-news.xml`: solo articoli delle ultime 48-72 h (attualmente 9 item, 19-21/07/2026),
+- `sitemap-news.xml`: articoli pubblicati dal 19/07/2026 (attualmente 22 item, 19-31/07/2026),
   namespace `http://www.google.com/schemas/sitemap-news/0.9`, `news:name` "Il Giornale Edile",
   `news:language` "it", `news:publication_date` con timezone.
-- `feed.xml` RSS 2.0 per lettori e aggregatori (20 item).
+- `feed.xml` RSS 2.0 per lettori e aggregatori (20 item, `pubDate` in formato RFC-822).
 
 ## 10. llms.txt
 
 Indice markdown curato per i retrieval dei LLM: H1 con nome testata, blockquote di
 posizionamento, sezioni "Guide pilastro" (pillar fotovoltaico primo), "Categorie",
-"Ultimi articoli", "Informazioni editoriali" — 35 URL con descrizione one-line.
+"Ultimi articoli", "Informazioni editoriali" — 50 URL con descrizione one-line.
 Scopo: massimizzare la probabilità che un agente AI trovi subito i contenuti canonicali.
 
 ## 11. Misure GEO (Generative Engine Optimization)

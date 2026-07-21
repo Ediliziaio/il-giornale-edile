@@ -1,7 +1,7 @@
 # Piano Editoriale — Il Giornale Edile
 
-**Documento:** 03 · Inventario contenuti, mappa sitelink e calendario 30 giorni
-**Data di redazione:** 21 luglio 2026 · **Pubblicati:** 33 articoli in 6 silos
+**Documento:** 03 · Inventario contenuti, mappa sitelink e backlog editoriale
+**Data di redazione:** 21 luglio 2026 · **Ultimo aggiornamento:** 31 luglio 2026 · **Pubblicati:** 46 articoli in 6 silos
 
 ---
 
@@ -19,6 +19,7 @@ Legenda **Tipo**: ⭐ Pillar · G Guida/Cluster · T5 Top 5 redazionale · N New
 | Superbonus 2026: cosa resta | `superbonus-2026-cosa-resta.html` | superbonus 2026 | detrazioni residue, superbonus condomini | G | ↔ bonus-ristrutturazione, detrazioni-50-36, ecobonus |
 | Detrazione 50% e 36%: regole e differenze | `detrazioni-ristrutturazione-50-36.html` | detrazione 50 prima casa | detrazione 36 seconda casa, aliquote 2026 | G | ↔ bonus-ristrutturazione, ecobonus, superbonus |
 | Conto Termico 3.0: incentivi GSE | `conto-termico-3-guida.html` | conto termico 3.0 | incentivi GSE, pompe di calore incentivi | G | ↔ ecobonus, top-5-pompe, comunita-cer |
+| Bonus Mobili 2026: regole e massimali | `bonus-mobili-2026-guida.html` | bonus mobili 2026 | massimale 5.000 euro, elettrodomestici, pagamenti tracciati | G | ↔ bonus-ristrutturazione, detrazioni-50-36 |
 
 ### Silo Energia & Rinnovabili
 
@@ -30,6 +31,11 @@ Legenda **Tipo**: ⭐ Pillar · G Guida/Cluster · T5 Top 5 redazionale · N New
 | Fotovoltaico sul tetto: costi, permessi e iter 2026 | `fotovoltaico-costi-permessi-2026.html` | costi fotovoltaico | permessi fotovoltaico, iter autorizzativo | G | ↔ comunita-cer, detrazioni-50-36, direttiva-case-green |
 | Comunità energetiche (CER): guida | `comunita-energetiche-cer-guida.html` | comunità energetiche | CER, energia condivisa, incentivo CER | G | ↔ fotovoltaico-costi, ecobonus |
 | Riscaldamento a pavimento: pro e contro | `riscaldamento-a-pavimento-pro-contro.html` | riscaldamento a pavimento | pavimento radiante, costi al mq, consumi | G | ↔ top-5-pompe, domotica, detrazioni-50-36 |
+| Accumulo fotovoltaico: la guida completa 2026 | `accumulo-fotovoltaico-batterie-guida.html` | batteria accumulo fotovoltaico | prezzi per taglia, LFP vs NMC, dimensionamento kWh, detrazione 50% | G (chiude gap pillar) | ↔ pannelli-solari pillar, ecobonus, top-5-batterie |
+| Pannelli TOPCon, HJT e PERC a confronto | `pannelli-fotovoltaici-tecnologie-topcon-hjt.html` | pannelli fotovoltaici TOPCon HJT | efficienza moduli, resa reale, degrado, garanzie | G (cluster pillar) | ↔ pannelli-solari pillar, top-5-fornitori |
+| Caldaia a condensazione o pompa di calore nel 2026 | `caldaia-condensazione-o-pompa-di-calore.html` | caldaia o pompa di calore | consumi reali, quando conviene, incentivi | G (cluster pompe di calore) | ↔ top-5-pompe, conto-termico, ecobonus |
+| Comunità energetica in condominio: caso studio | `cer-condominio-caso-studio.html` | comunità energetica condominio | riparto incentivo tra condomini, numeri reali | G (cluster CER) | ↔ comunita-cer, fotovoltaico-costi, accumulo-guida |
+| Le 5 migliori batterie di accumulo del 2026 | `top-5-batterie-accumulo-2026.html` | migliori batterie accumulo | Tesla, BYD, Huawei, Pylontech, Sonnen | T5 | ↔ accumulo-guida, pannelli-solari pillar |
 
 ### Silo Normative & Cantieri
 
@@ -41,6 +47,9 @@ Legenda **Tipo**: ⭐ Pillar · G Guida/Cluster · T5 Top 5 redazionale · N New
 | Ponteggi: norme, autorizzazioni e sicurezza | `ponteggi-norme-sicurezza.html` | ponteggi norme | PiMUS, libretto ministeriale, montaggio | G | ↔ sicurezza-cantiere, codice-appalti, ntc |
 | NTC: aggiornamenti e classificazione sismica | `ntc-aggiornamenti-sismici.html` | norme tecniche costruzioni | NTC 2018, classificazione sismica, verifiche | G | ↔ codice-appalti, sicurezza-cantiere, edilizia-legno |
 | Certificazione energetica APE: regole e costi | `certificazione-ape-regole-2026.html` | certificazione energetica ape | ape obbligatoria, costo ape, classi energetiche | G | ↔ direttiva-case-green, mutui-green, mercato-immobiliare |
+| Normativa antincendio in edilizia 2026 | `normativa-antincendio-edilizia-2026.html` | normativa antincendio edilizia | codice prevenzione incendi, SCIA, adempimenti cantiere | G | ↔ sicurezza-cantiere, codice-appalti |
+| Edilizia scolastica e PNRR: il punto | `edilizia-scolastica-pnrr-cantieri.html` | edilizia scolastica PNRR | cantieri scuole, fondi stanziati, tempi di gara | N | ↔ codice-appalti, top-5-imprese |
+| Prezzario regionale lavori edili: guida 2026 | `prezzario-regionale-lavori-edili-guida.html` | prezzario lavori edili | lettura voci, download, computo metrico | G | ↔ costo-ristrutturazione, codice-appalti |
 
 ### Silo Materiali & Tecnologie
 
@@ -53,6 +62,7 @@ Legenda **Tipo**: ⭐ Pillar · G Guida/Cluster · T5 Top 5 redazionale · N New
 | Domotica e smart home in ristrutturazione | `domotica-smart-home-ristrutturazione.html` | domotica | smart home, KNX, costi domotica | G | ↔ riscaldamento-pavimento, top-5-pompe, bonus-ristrutturazione |
 | BIM obbligatorio: scadenze e soglie 2026 | `bim-obbligatorio-scadenze.html` | bim obbligatorio | scadenze BIM 2026, DM 312/2021 | G | ↔ codice-appalti, top-5-software-bim, stampa-3d |
 | I 5 migliori software BIM per l'edilizia | `top-5-software-bim.html` | software bim | Revit, Archicad, Edificius, Tekla, Allplan | T5 | ↔ bim-obbligatorio, codice-appalti, top-5-imprese |
+| Isolamento pareti dall'interno: guida completa | `isolamento-interno-pareti-guida.html` | isolamento pareti dall'interno | contropareti, pannelli, rischio condensa, costi al mq | G | ↔ cappotto, ecobonus, certificazione-ape |
 
 ### Silo Mercato & Immobiliare
 
@@ -72,6 +82,9 @@ Legenda **Tipo**: ⭐ Pillar · G Guida/Cluster · T5 Top 5 redazionale · N New
 |---|---|---|---|---|---|
 | Infissi in PVC, alluminio o legno: il confronto definitivo | `infissi-pvc-alluminio-legno-confronto.html` | infissi pvc alluminio legno | trasmittanza termica, detrazioni infissi | G (candidato pillar silo) | ↔ top-5-produttori-serramenti, ecobonus, detrazioni-50-36 |
 | I 5 migliori produttori di serramenti in Italia | `top-5-produttori-serramenti.html` | produttori serramenti | Internorm, Finstral, Schüco, Oknoplast, Veka | T5 | ↔ infissi-confronto, ecobonus, bonus-ristrutturazione |
+| Posa in opera infissi: la guida 2026 | `posa-in-opera-infissi-guida.html` | posa in opera infissi | posa certificata, costi al mq, errori da evitare | G | ↔ infissi-confronto, vetri-basso-emissivi, ecobonus |
+| Vetri basso-emissivi e selettivi: guida 2026 | `vetri-basso-emissivi-selettivi-guida.html` | vetro basso emissivo | Ug, fattore solare g, doppio o triplo vetro | G | ↔ infissi-confronto, posa-in-opera, ecobonus |
+| Sostituzione infissi in condominio: l'iter | `sostituzione-infissi-condominio-iter.html` | sostituzione infissi condominio | delibera, decoro architettonico, maggioranze, detrazioni | G | ↔ infissi-confronto, detrazioni-50-36, posa-in-opera |
 
 ---
 
@@ -83,43 +96,41 @@ un articolo figlio dedicato che si candida ai sitelink di dominio:
 | Ancora TOC del pillar | Query coperta | Articolo figlio | Stato |
 |---|---|---|---|
 | `#come-funzionano` | come funzionano i pannelli solari | (nel pillar) | ✅ |
-| `#tipi-di-pannelli` | tipi di pannelli fotovoltaici | (nel pillar) — espandibile: scheda TOPCon/HJT/back contact | 🔶 gap minore |
+| `#tipi-di-pannelli` | tipi di pannelli fotovoltaici | `pannelli-fotovoltaici-tecnologie-topcon-hjt.html` | ✅ chiuso (luglio 2026) |
 | `#quanto-costano` | costo impianto fotovoltaico 2026 | `fotovoltaico-costi-permessi-2026.html` | ✅ |
 | `#incentivi-detrazioni` | detrazione fotovoltaico 2026 | `ecobonus-65-guida.html`, `detrazioni-ristrutturazione-50-36.html` | ✅ |
 | `#permessi-iter` | permessi fotovoltaico / edilizia libera | `fotovoltaico-costi-permessi-2026.html` | ✅ |
 | `#dimensionamento` | quanti kW fotovoltaico per una casa | (nel pillar) | ✅ |
-| `#accumulo-batterie` | batteria accumulo fotovoltaico conviene | **da produrre** (vedi calendario W1) | 🔴 gap |
+| `#accumulo-batterie` | batteria accumulo fotovoltaico conviene | `accumulo-fotovoltaico-batterie-guida.html` + `top-5-batterie-accumulo-2026.html` | ✅ chiuso (luglio 2026) |
 | `#manutenzione` | manutenzione e pulizia pannelli | (nel pillar) | ✅ |
 | `#migliori-marche` | migliori pannelli solari / fornitori | `top-5-fornitori-pannelli-solari.html` | ✅ |
 | `#comunita-energetiche` | comunità energetiche cosa sono | `comunita-energetiche-cer-guida.html` | ✅ |
 | `#case-green` | obbligo pannelli solari direttiva UE | `direttiva-case-green-cosa-cambia.html` | ✅ |
 
-**Azione correttiva linking:** i 6 cluster figli devono linkare il pillar nel primo terzo
-del corpo (oggi il ritorno link manca — vedi doc 01 §3.3).
+**Azione correttiva linking:** ✅ completata a luglio 2026 — i 6 cluster figli e i nuovi
+articoli del ciclo 2 linkano il pillar nel primo terzo del corpo; il pillar rimanda ai
+figli nei paragrafi aggiornati e nei "Leggi anche".
 
 ---
 
-## 3. Cadenza editoriale — prossimi 30 giorni (22/07 → 20/08/2026)
+## 3. Backlog editoriale — prossimi 60 giorni (01/08 → 30/09/2026)
 
-Ritmo: **2-3 articoli/settimana**, pubblicazione mar-gio-sab. Priorità: chiudere i gap
-del pillar fotovoltaico, rinforzare il silo giovane Serramenti, coprire keyword stagionali
-dei bonus (scadenze Q4).
+Il calendario 22/07 → 20/08 è stato **interamente pubblicato in anticipo** (ciclo 2,
+13 articoli usciti tra il 22 e il 31 luglio 2026) ed è ora integrato nelle tabelle
+del §1. Ritmo confermato: **2-3 articoli/settimana**, pubblicazione mar-gio-sab.
+Priorità del nuovo backlog: chiudere i gap bonus stagionali Q4, presidiare
+l'acustica (ponte Serramenti × Materiali) e il filone condominio.
 
-| Sett. | Data | Titolo di lavorazione | Silo | Keyword primaria | Tipo |
-|---|---|---|---|---|---|
-| W1 | gio 23/07 | Batterie di accumulo fotovoltaico: prezzi, taglie e quando conviene | Energia | batteria accumulo fotovoltaico | G (chiude gap pillar `#accumulo-batterie`) |
-| W1 | sab 25/07 | Posa in opera certificata degli infissi: perché vale quanto il serramento | Serramenti | posa in opera infissi | G |
-| W2 | mar 28/07 | Bonus mobili ed elettrodomestici 2026: regole e massimali | Bonus & Fisco | bonus mobili 2026 | G |
-| W2 | gio 30/07 | Vetri basso-emissivi, selettivi e acustici: guida alla scelta | Serramenti | vetro basso emissivo | G |
-| W2 | sab 01/08 | Normativa antincendio edilizia: cosa cambia con le nuove regole tecniche | Normative | normativa antincendio edilizia | G |
-| W3 | mar 04/08 | TOPCon, HJT, back contact: le tecnologie dei moduli 2026 a confronto | Energia | pannelli fotovoltaici TOPCon HJT | G (cluster pillar) |
-| W3 | gio 06/08 | Edilizia scolastica: i cantieri PNRR e i fondi in arrivo | Normative | edilizia scolastica PNRR | N |
-| W3 | sab 08/08 | Isolamento dall'interno: quando il cappotto non si può fare | Materiali | isolamento pareti dall'interno | G |
-| W4 | mar 11/08 | Caldaia a condensazione o pompa di calore nel 2026: il confronto definitivo | Energia | caldaia o pompa di calore | G (cluster pompe di calore) |
-| W4 | gio 13/08 | Sostituzione infissi in condominio: iter, millesimi e detrazioni | Serramenti | sostituzione infissi condominio | G |
-| W4 | sab 15/08 | Prezzario regionale dei lavori edili: come si legge e si usa | Normative | prezzario lavori edili | G |
-| W5 | mar 18/08 | CER in condominio: caso studio con i numeri di un anno di esercizio | Energia | comunità energetica condominio | G (cluster CER) |
-| W5 | gio 20/08 | Le 5 migliori batterie di accumulo del 2026 | Energia | migliori batterie accumulo | T5 |
+| Priorità | Titolo di lavorazione | Silo | Keyword primaria | Tipo |
+|---|---|---|---|---|
+| 🔴 alta | Bonus verde 2026: detrazione 36% per giardini, terrazzi e aree verdi | Bonus & Fisco | bonus verde 2026 | G |
+| 🔴 alta | Sismabonus 2026: aliquote, massimali e interventi antisismici ammessi | Bonus & Fisco | sismabonus 2026 | G |
+| 🟡 media | Isolamento acustico delle pareti: requisiti del DPCM 5/12/1997 e soluzioni | Materiali | isolamento acustico pareti | G (ponte Materiali × Serramenti) |
+| 🟡 media | Barriere architettoniche e bonus 75%: ascensori e rampe in condominio | Bonus & Fisco | bonus 75 barriere architettoniche | G (ponte Bonus × Condominio) |
+| 🟡 media | Manutenzione e pulizia dei pannelli fotovoltaici: costi, resa e contratti O&M | Energia | manutenzione pannelli fotovoltaici | G (chiude sitelink `#manutenzione`) |
+| 🟡 media | Schermature solari e tende da sole: scelta, costi e detrazioni | Serramenti | schermature solari detrazione | G (ponte Serramenti × Bonus) |
+| 🟢 bassa | Noleggio operativo e PPA per il fotovoltaico aziendale | Energia | noleggio operativo fotovoltaico | N (B2B) |
+| 🟢 bassa | Computo metrico estimativo: come si redige, esempi e software | Normative | computo metrico | G (cluster prezzario) |
 
 **Regola di pubblicazione:** ogni nuovo cluster linka il proprio pillar nel primo terzo
 e riceve link dal pillar (aggiornamento paragrafo + "Leggi anche") e dalla categoria
@@ -133,15 +144,15 @@ sui bonus) coprono e che il sito non ha ancora:
 
 | Area | Keyword scoperte | Priorità | Razionale |
 |---|---|---|---|
-| Accumulo/storage | batteria accumulo fotovoltaico, migliori batterie | 🔴 alta | Sezione del pillar senza figlio; volume in crescita |
-| Bonus secondari | bonus mobili 2026, bonus verde, sismabonus | 🔴 alta | Stagionalità Q4, SERP bonus presidiata dai competitor |
-| Antincendio | normativa antincendio edilizia, prevenzione incendi | 🔴 alta | Silo Normative senza il tema; pubblico professionale |
-| Edilizia scolastica | edilizia scolastica PNRR, scuole cantieri | 🟡 media | News/advisory per imprese e PA |
+| ~~Accumulo/storage~~ | batteria accumulo fotovoltaico, migliori batterie | ✅ coperto | `accumulo-fotovoltaico-batterie-guida.html` + `top-5-batterie-accumulo-2026.html` (luglio 2026) |
+| Bonus secondari | bonus verde, sismabonus | 🔴 alta | Stagionalità Q4; bonus mobili già coperto (luglio 2026) |
+| ~~Antincendio~~ | normativa antincendio edilizia, prevenzione incendi | ✅ coperto | `normativa-antincendio-edilizia-2026.html` (luglio 2026) |
+| ~~Edilizia scolastica~~ | edilizia scolastica PNRR, scuole cantieri | ✅ coperto | `edilizia-scolastica-pnrr-cantieri.html` (luglio 2026) |
 | Acustica | isolamento acustico pareti, requisiti acustici DPCM 1997 | 🟡 media | Collega serramenti + materiali; poca concorrenza consumer |
 | Accessibilità | barriere architettoniche, ascensori in condominio, bonus 75% | 🟡 media | Bonus 75% quasi assente dai contenuti attuali |
 | Noleggio operativo | noleggio operativo fotovoltaico, PPA | 🟢 bassa | Trend B2B; valutare dopo il cluster accumulo |
-| Condominio | riqualificazione condominio, sostituzione infissi condominio | 🟡 media | Ponte Bonus × Serramenti × Mercato |
-| Prezzari | prezzario regionale lavori edili, computo metrico | 🟢 bassa | Query professionali a coda lunga stabile |
+| ~~Condominio (infissi)~~ | sostituzione infissi condominio | ✅ coperto | `sostituzione-infissi-condominio-iter.html` (luglio 2026); resta aperto il filone riqualificazione condominio |
+| ~~Prezzari~~ | prezzario regionale lavori edili | ✅ coperto | `prezzario-regionale-lavori-edili-guida.html` (luglio 2026); computo metrico ancora scoperto |
 
 **Mantenimento:** gli articoli "2026" vanno revisionati a ogni cambio normativo
 (prossima finestra: Legge di Bilancio 2027, Q4) aggiornando `dateModified` → nuovo
@@ -151,7 +162,7 @@ sui bonus) coprono e che il sito non ha ancora:
 
 | KPI | Strumento | Target |
 |---|---|---|
-| Pagine indicizzate | Search Console (rapporto Pagine) | 49/49 entro 14 giorni |
+| Pagine indicizzate | Search Console (rapporto Pagine) | 62/62 entro 14 giorni |
 | Sitelink di dominio sulla brand query | SERP "il giornale edile" | ≥ 4 sitelink entro 90 gg |
 | Posizione pillar "pannelli solari guida" | rank tracker | top 20 → top 10 |
 | Citazioni in risposte AI (ChatGPT/Perplexity) | test mensile su 10 query pillar | ≥ 3 citazioni con URL |

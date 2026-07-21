@@ -2,6 +2,7 @@
 """Genera pagine categoria, guide.html, sitemap.xml, robots.txt, feed.xml
 leggendo i metadati dei 30 articoli in articoli/."""
 import re, html, os
+from datetime import date as _date
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -30,13 +31,15 @@ def parse_article(path):
     desc = m(r'<meta name="description" content="(.*?)"')
     section = unesc(re.search(r'article:section" content="(.*?)"', t).group(1))
     date = re.search(r'article:published_time" content="(\d{4}-\d{2}-\d{2})', t).group(1)
+    mod = re.search(r'article:modified_time" content="(\d{4}-\d{2}-\d{2})', t)
+    modified = mod.group(1) if mod else date
     thumb = re.search(r'<figure class="thumb (t-\w+)', t)
     thumb = thumb.group(1) if thumb else CATS[section][1]
     body = re.search(r'itemprop="articleBody"(.*?)</div>\s*<!-- Sidebar', t, re.S)
     txt = re.sub(r"<[^>]+>", " ", body.group(1) if body else "")
     chars = len(re.sub(r"\s+", " ", txt))
     return {"slug": path.stem, "title": title_h1 or title_tag, "desc": desc,
-            "section": section, "date": date, "thumb": thumb, "chars": chars}
+            "section": section, "date": date, "modified": modified, "thumb": thumb, "chars": chars}
 
 arts = sorted((parse_article(p) for p in ART.glob("*.html")), key=lambda a: a["date"], reverse=True)
 
@@ -61,6 +64,7 @@ def head(title, desc, canonical, extra_ld=""):
   <meta property="og:title" content="{html.escape(title)}">
   <meta property="og:description" content="{html.escape(desc)}">
   <meta property="og:url" content="{canonical}">
+  <meta property="og:image" content="https://www.ilgiornaleedile.it/assets/cover-home.webp">
   <meta property="og:locale" content="it_IT">
   <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,7 +109,7 @@ def header(current=""):
 FOOTER = """  <footer class="site-footer"><div class="container">
     <div class="footer-grid">
       <div>
-        <a class="f-logo" href="../index.html"><img src="../assets/logo.png" alt="Il Giornale Edile" width="240" height="23"></a>
+        <a class="f-logo" href="../index.html"><img src="../assets/logo.png" alt="Il Giornale Edile" width="240" height="23" loading="lazy"></a>
         <p class="f-desc">Il Giornale Edile è la testata online dedicata al mondo delle costruzioni: bonus fiscali, norme tecniche, materiali, tecnologie di cantiere e mercato immobiliare.</p>
       </div>
       <nav aria-label="Sezioni del sito"><h4>Sezioni</h4><ul>
@@ -200,7 +204,13 @@ guides = [a for a in arts if not a["slug"].startswith("top-5-") and a["slug"] in
     "bonus-ristrutturazione-2026-guida-completa","ecobonus-65-guida","conto-termico-3-guida",
     "fotovoltaico-costi-permessi-2026","cappotto-termico-materiali-confronto",
     "mutui-green-casa-efficiente","costo-ristrutturazione-al-mq-2026","comunita-energetiche-cer-guida",
-    "costruire-casa-prefabbricata-costi","superbonus-2026-cosa-resta"}]
+    "costruire-casa-prefabbricata-costi","superbonus-2026-cosa-resta",
+    "accumulo-fotovoltaico-batterie-guida","posa-in-opera-infissi-guida","bonus-mobili-2026-guida",
+    "vetri-basso-emissivi-selettivi-guida","isolamento-interno-pareti-guida",
+    "prezzario-regionale-lavori-edili-guida","caldaia-condensazione-o-pompa-di-calore",
+    "sostituzione-infissi-condominio-iter","normativa-antincendio-edilizia-2026",
+    "pannelli-fotovoltaici-tecnologie-topcon-hjt","edilizia-scolastica-pnrr-cantieri",
+    "cer-condominio-caso-studio","ristrutturazione-chiavi-in-mano","detrazioni-ristrutturazione-50-36"}]
 ld_guide = f"""<script type="application/ld+json">
   {{"@context":"https://schema.org","@type":"CollectionPage",
    "name":"Guide e Top 5 — Il Giornale Edile","url":"{BASE}/guide.html","inLanguage":"it-IT"}}
@@ -245,25 +255,26 @@ page = page.replace('href="../note-legali.html', 'href="note-legali.html').repla
 print(f"guide.html -> {len(top5)} top5 + {len(guides)} guide")
 
 # ---------- sitemap.xml ----------
-STATIC_DATE = "2026-07-21"
-urls = [f"  <url><loc>{BASE}/</loc><lastmod>{STATIC_DATE}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>",
-        f"  <url><loc>{BASE}/guide.html</loc><lastmod>{STATIC_DATE}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>",
+STATIC_DATE = "2026-07-21"   # pagine istituzionali invariate
+INDEX_DATE = "2026-07-31"    # home, categorie, guide, mappa: aggiornate con il ciclo 2
+urls = [f"  <url><loc>{BASE}/</loc><lastmod>{INDEX_DATE}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>",
+        f"  <url><loc>{BASE}/guide.html</loc><lastmod>{INDEX_DATE}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>",
         f"  <url><loc>{BASE}/cerca.html</loc><lastmod>{STATIC_DATE}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>"]
 for name, (slug, _, _) in CATS.items():
-    urls.append(f"  <url><loc>{BASE}/categoria/{slug}.html</loc><lastmod>{STATIC_DATE}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>")
+    urls.append(f"  <url><loc>{BASE}/categoria/{slug}.html</loc><lastmod>{INDEX_DATE}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>")
 for a in arts:
-    urls.append(f"  <url><loc>{BASE}/articoli/{a['slug']}.html</loc><lastmod>{a['date']}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>")
-urls.append(f"  <url><loc>{BASE}/sitemap.html</loc><lastmod>{STATIC_DATE}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>")
+    urls.append(f"  <url><loc>{BASE}/articoli/{a['slug']}.html</loc><lastmod>{a['modified']}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>")
+urls.append(f"  <url><loc>{BASE}/sitemap.html</loc><lastmod>{INDEX_DATE}</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>")
 for p in ["chi-siamo", "pubblicita", "contatti", "privacy", "cookie-policy", "note-legali"]:
     urls.append(f"  <url><loc>{BASE}/{p}.html</loc><lastmod>{STATIC_DATE}</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>")
 sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "\n".join(urls) + "\n</urlset>\n"
 (ROOT / "sitemap.xml").write_text(sitemap, encoding="utf-8")
 print(f"sitemap.xml -> {len(urls)} URL")
 
-# ---------- sitemap-news.xml (Google News: articoli 2026-07-19 .. 2026-07-21) ----------
+# ---------- sitemap-news.xml (Google News: articoli pubblicati dal 2026-07-19) ----------
 news_items = []
 for a in arts:
-    if "2026-07-19" <= a['date'] <= "2026-07-21":
+    if a['date'] >= "2026-07-19":
         news_items.append(f"""  <url>
     <loc>{BASE}/articoli/{a['slug']}.html</loc>
     <news:news>
@@ -345,6 +356,12 @@ Sitemap: {BASE}/sitemap-news.xml
 print("robots.txt -> OK")
 
 # ---------- feed.xml (RSS 2.0) ----------
+_WD = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+_MO = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+def rfc822(d):
+    y, m, dd = int(d[:4]), int(d[5:7]), int(d[8:10])
+    wd = _WD[_date(y, m, dd).weekday()]
+    return f"{wd}, {dd:02d} {_MO[m-1]} {y} 08:00:00 +0200"
 items = []
 for a in arts[:20]:
     items.append(f"""  <item>
@@ -353,7 +370,7 @@ for a in arts[:20]:
     <guid isPermaLink="true">{BASE}/articoli/{a['slug']}.html</guid>
     <description>{html.escape(a['desc'])}</description>
     <category>{html.escape(a['section'])}</category>
-    <pubDate>{a['date']}T08:00:00+02:00</pubDate>
+    <pubDate>{rfc822(a['date'])}</pubDate>
   </item>""")
 feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">

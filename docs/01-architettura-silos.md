@@ -3,7 +3,7 @@
 **Documento:** 01 · Mappa del sito e architettura informativa
 **Dominio canonico:** `https://www.ilgiornaleedile.it`
 **Stato:** produzione, verificato al 21 luglio 2026
-**Inventario:** 49 pagine HTML (1 home, 6 categorie, 33 articoli, 8 pagine servizio + sitemap utente), 2 sitemap XML, feed RSS, robots.txt, llms.txt
+**Inventario:** 62 pagine HTML (1 home, 6 categorie, 46 articoli, 8 pagine servizio + sitemap utente), 2 sitemap XML, feed RSS, robots.txt, llms.txt
 
 ---
 
@@ -16,14 +16,14 @@ https://www.ilgiornaleedile.it/
 ├── cerca.html ............................ Ricerca interna (target della SearchAction)
 ├── sitemap.html .......................... Mappa del sito utente (HTML)
 │
-├── categoria/bonus-fiscali.html .......... SILO 1 — Bonus & Fisco (5 articoli)
-├── categoria/energia-rinnovabili.html .... SILO 2 — Energia & Rinnovabili (6 articoli)
-├── categoria/normative-cantieri.html ..... SILO 3 — Normative & Cantieri (6 articoli)
-├── categoria/materiali-tecnologie.html ... SILO 4 — Materiali & Tecnologie (7 articoli)
+├── categoria/bonus-fiscali.html .......... SILO 1 — Bonus & Fisco (6 articoli)
+├── categoria/energia-rinnovabili.html .... SILO 2 — Energia & Rinnovabili (11 articoli)
+├── categoria/normative-cantieri.html ..... SILO 3 — Normative & Cantieri (9 articoli)
+├── categoria/materiali-tecnologie.html ... SILO 4 — Materiali & Tecnologie (8 articoli)
 ├── categoria/mercato-immobiliare.html .... SILO 5 — Mercato & Immobiliare (7 articoli)
-├── categoria/serramenti-infissi.html ..... SILO 6 — Serramenti & Infissi (2 articoli)
+├── categoria/serramenti-infissi.html ..... SILO 6 — Serramenti & Infissi (5 articoli)
 │
-├── articoli/*.html ....................... 33 articoli (foglie dei silos)
+├── articoli/*.html ....................... 46 articoli (foglie dei silos)
 │
 ├── chi-siamo.html ........................ Testata + redazione (E-E-A-T)
 ├── contatti.html ......................... Contatti redazione
@@ -52,6 +52,7 @@ breadcrumb e sitemap utente.
 | Superbonus 2026: cosa resta | `/articoli/superbonus-2026-cosa-resta.html` |
 | Detrazione 50% prima casa e 36% seconda casa | `/articoli/detrazioni-ristrutturazione-50-36.html` |
 | Conto Termico 3.0: incentivi GSE | `/articoli/conto-termico-3-guida.html` |
+| Bonus Mobili 2026: regole e massimali | `/articoli/bonus-mobili-2026-guida.html` |
 
 ### SILO 2 — Energia & Rinnovabili (`/categoria/energia-rinnovabili.html`)
 
@@ -63,18 +64,25 @@ breadcrumb e sitemap utente.
 | Fotovoltaico sul tetto: costi, permessi e iter 2026 | `/articoli/fotovoltaico-costi-permessi-2026.html` |
 | Comunità energetiche (CER): guida | `/articoli/comunita-energetiche-cer-guida.html` |
 | Riscaldamento a pavimento: pro, contro e costi | `/articoli/riscaldamento-a-pavimento-pro-contro.html` |
+| Accumulo fotovoltaico: la guida completa 2026 | `/articoli/accumulo-fotovoltaico-batterie-guida.html` |
+| Pannelli TOPCon, HJT e PERC a confronto | `/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html` |
+| Caldaia a condensazione o pompa di calore nel 2026 | `/articoli/caldaia-condensazione-o-pompa-di-calore.html` |
+| Comunità energetica in condominio: caso studio | `/articoli/cer-condominio-caso-studio.html` |
+| Le 5 migliori batterie di accumulo del 2026 | `/articoli/top-5-batterie-accumulo-2026.html` |
 
 ### SILO 3 — Normative & Cantieri (`/categoria/normative-cantieri.html`)
 
 `direttiva-case-green-cosa-cambia` · `codice-appalti-dlgs-36-2023` · `sicurezza-cantiere-dlgs-81-novita` ·
-`ponteggi-norme-sicurezza` · `ntc-aggiornamenti-sismici` · `certificazione-ape-regole-2026`
+`ponteggi-norme-sicurezza` · `ntc-aggiornamenti-sismici` · `certificazione-ape-regole-2026` ·
+`normativa-antincendio-edilizia-2026` · `edilizia-scolastica-pnrr-cantieri` ·
+`prezzario-regionale-lavori-edili-guida`
 (tutti in `/articoli/<slug>.html`)
 
 ### SILO 4 — Materiali & Tecnologie (`/categoria/materiali-tecnologie.html`)
 
 `cappotto-termico-materiali-confronto` · `edilizia-legno-xlam` · `cemento-sostenibile-materiali` ·
 `stampa-3d-edilizia` · `domotica-smart-home-ristrutturazione` · `bim-obbligatorio-scadenze` ·
-`top-5-software-bim`
+`top-5-software-bim` · `isolamento-interno-pareti-guida`
 
 ### SILO 5 — Mercato & Immobiliare (`/categoria/mercato-immobiliare.html`)
 
@@ -84,8 +92,10 @@ breadcrumb e sitemap utente.
 
 ### SILO 6 — Serramenti & Infissi (`/categoria/serramenti-infissi.html`)
 
-`infissi-pvc-alluminio-legno-confronto` · `top-5-produttori-serramenti`
-(silo giovane, creato il 21/07/2026: priorità di espansione editoriale)
+`infissi-pvc-alluminio-legno-confronto` · `top-5-produttori-serramenti` ·
+`posa-in-opera-infissi-guida` · `vetri-basso-emissivi-selettivi-guida` ·
+`sostituzione-infissi-condominio-iter`
+(silo creato il 21/07/2026, portato a 5 articoli con il ciclo editoriale di fine luglio)
 
 ---
 
@@ -107,8 +117,8 @@ una singola sotto-domanda.
 | `#migliori-marche` | `top-5-fornitori-pannelli-solari.html` |
 | `#comunita-energetiche` | `comunita-energetiche-cer-guida.html` |
 | `#case-green` | `direttiva-case-green-cosa-cambia.html` |
-| `#accumulo-batterie` | **gap** — nessun articolo dedicato (in piano editoriale) |
-| `#tipi-di-pannelli` | coperto nel pillar; espandibile con scheda tecnologie TOPCon/HJT |
+| `#accumulo-batterie` | `accumulo-fotovoltaico-batterie-guida.html`, `top-5-batterie-accumulo-2026.html` |
+| `#tipi-di-pannelli` | `pannelli-fotovoltaici-tecnologie-topcon-hjt.html` |
 
 Il pillar linka i cluster **sia nel corpo** (link contestuali, es. "rimandiamo alla guida
 dedicata al fotovoltaico sul tetto: costi, permessi e iter 2026") **sia nella sezione
@@ -123,12 +133,11 @@ dedicata al fotovoltaico sul tetto: costi, permessi e iter 2026") **sia nella se
 
 ### 3.3 Stato attuale dei backlink cluster → pillar
 
-Verifica sul grafo di link estratto dai 33 articoli: il pillar riceve link dalla home
-(hero-side, sezione Energia, "I più letti") e dalle pagine categoria/guide, ma **nessun
-articolo cluster linka attualmente il pillar con anchor descrittiva**. Regola da applicare
-ai prossimi aggiornamenti: ogni cluster del silo fotovoltaico deve includere nel primo
-terzo del corpo un link contestuale al pillar (es. "come spiegato nella nostra guida
-completa ai pannelli solari").
+Verifica sul grafo di link estratto dai 46 articoli (luglio 2026): ✅ **risolta**. I cluster
+del silo fotovoltaico linkano il pillar con anchor descrittiva nel primo terzo del corpo
+(intervento sui 6 articoli storici) e tutti i nuovi cluster del ciclo 2 nascono già con il
+backlink al pillar. Il pillar riceve inoltre link dalla home (sezione Energia), dalle
+pagine categoria/guide e dai "Leggi anche" incrociati.
 
 ---
 
@@ -155,12 +164,12 @@ completa ai pannelli solari").
 | Pattern | Regola | Stato |
 |---|---|---|
 | Pillar → cluster | Link contestuali nel corpo + sezione "Leggi anche" | ✅ attivo |
-| Cluster → pillar | 1 link nel primo terzo del corpo con anchor descrittiva | ⚠️ da rinforzare (vedi §3.3) |
+| Cluster → pillar | 1 link nel primo terzo del corpo con anchor descrittiva | ✅ attivo (verificato §3.3) |
 | Cluster ↔ cluster stesso silo | Sezione "Leggi anche": 4 card pertinenti al silo | ✅ attivo (7-10 link interni/articolo) |
 | Home → silos | Sezioni dedicate per categoria + hero + ticker | ✅ attivo (6 sezioni) |
-| Footer → silos | Colonna "Sezioni" con le 6 categorie su tutte le 49 pagine | ✅ attivo |
+| Footer → silos | Colonna "Sezioni" con le 6 categorie su tutte le 62 pagine | ✅ attivo |
 | Sidebar "I più letti" | 5 link editoriali su home e articoli | ✅ attivo |
-| Nav principale | 7 voci: Home + 5 categorie + Guide | ✅ attivo |
+| Nav principale | 8 voci: Home + 6 categorie + Guide | ✅ attivo (unificata su tutte le pagine, luglio 2026) |
 | Mappa del sito | Link "Mappa del sito" nel footer di tutte le pagine | ✅ attivo |
 
 Vincolo anti-orphan: ogni articolo è raggiungibile da almeno 3 percorsi
@@ -179,18 +188,18 @@ I sitelink (di Google e delle risposte AI) si guadagnano con struttura, non con 
    solo ancore ma diventano URL dedicate (§3.1), candidandosi a sitelink di dominio.
 4. **SearchAction** in home (JSON-LD `WebSite.potentialAction` → `/cerca.html?q=...`)
    per il sitelinks search box.
-5. Navigazione principale stabile e testuale (niente menu JS-only): le 7 voci sono i
+5. Navigazione principale stabile e testuale (niente menu JS-only): le 8 voci sono i
    candidati naturali ai sitelink di dominio.
 
 ## 8. Setup sitemap / robots / llms.txt
 
 | File | Contenuto |
 |---|---|
-| `sitemap.xml` | 49 URL: home (1.0/daily), guide (0.8/weekly), 6 categorie (0.8/daily), 33 articoli (0.7/weekly con `lastmod` da `article:modified_time`), sitemap.html + 6 pagine servizio (0.3/yearly) |
-| `sitemap-news.xml` | 9 articoli pubblicati 19-21/07/2026, namespace Google News, publication "Il Giornale Edile", language `it` |
+| `sitemap.xml` | 62 URL: home (1.0/daily), guide (0.8/weekly), 6 categorie (0.8/daily), 46 articoli (0.7/weekly con `lastmod` da `article:modified_time`), sitemap.html + 6 pagine servizio (0.3/yearly) |
+| `sitemap-news.xml` | 22 articoli pubblicati 19-31/07/2026, namespace Google News, publication "Il Giornale Edile", language `it` |
 | `robots.txt` | `Allow: /` per tutti + 13 gruppi espliciti per crawler AI (vedi doc 02) + 2 righe `Sitemap:` |
-| `llms.txt` | Indice markdown per LLM: pillar, categorie, ultimi articoli, info editoriali (35 URL) |
-| `feed.xml` | RSS 2.0, 20 item più recenti, categorie incluse |
+| `llms.txt` | Indice markdown per LLM: pillar, categorie, ultimi articoli, info editoriali (50 URL) |
+| `feed.xml` | RSS 2.0, 20 item più recenti, categorie incluse, `pubDate` in formato RFC-822 |
 
 Tutti i file XML sono rigenerati da `build_pages.py`, che resta la fonte unica per
 categorie, sitemap, robots e feed: ogni nuovo articolo entra automaticamente in tutti
