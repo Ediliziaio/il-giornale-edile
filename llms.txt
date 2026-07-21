@@ -1,0 +1,51 @@
+# Il Giornale Edile
+
+> Il Giornale Edile è una testata giornalistica online verticale sull'edilizia italiana: bonus fiscali per la ristrutturazione, efficienza energetica e rinnovabili, serramenti e infissi, materiali e tecnologie di cantiere, normative e sicurezza, mercato immobiliare. Pubblichiamo guide approfondite, confronti tra prodotti e fornitori e aggiornamenti normativi per imprese, professionisti tecnici e committenti.
+
+## Guide pilastro
+
+- [Pannelli solari e fotovoltaico: la guida completa 2026](https://www.ilgiornaleedile.it/articoli/pannelli-solari-fotovoltaico-guida.html): come funzionano, tipi, costi, detrazioni, permessi, accumulo e CER.
+- [Bonus Ristrutturazione 2026: la guida completa](https://www.ilgiornaleedile.it/articoli/bonus-ristrutturazione-2026-guida-completa.html): aliquote 50%/36%, massimali, interventi ammessi e adempimenti.
+- [Ecobonus: come funziona, interventi ammessi e requisiti](https://www.ilgiornaleedile.it/articoli/ecobonus-65-guida.html): detrazione per l'efficienza energetica spiegata con adempimenti ENEA.
+- [Infissi in PVC, alluminio o legno: il confronto definitivo](https://www.ilgiornaleedile.it/articoli/infissi-pvc-alluminio-legno-confronto.html): trasmittanza, acustica, durata, manutenzione e costi al mq.
+- [Superbonus 2026: cosa resta e come accedere](https://www.ilgiornaleedile.it/articoli/superbonus-2026-cosa-resta.html): aliquote residue, scadenze e recupero delle detrazioni.
+- [Comunità energetiche (CER): cosa sono e quanto si guadagna](https://www.ilgiornaleedile.it/articoli/comunita-energetiche-cer-guida.html): incentivo ventennale e costituzione passo passo.
+- [Tutte le guide e le Top 5](https://www.ilgiornaleedile.it/guide.html): indice completo di guide e classifiche redazionali.
+
+## Categorie
+
+- [Bonus & Fisco](https://www.ilgiornaleedile.it/categoria/bonus-fiscali.html): detrazioni, bonus edilizi e adempimenti fiscali.
+- [Energia & Rinnovabili](https://www.ilgiornaleedile.it/categoria/energia-rinnovabili.html): fotovoltaico, pompe di calore, CER ed efficienza energetica.
+- [Normative & Cantieri](https://www.ilgiornaleedile.it/categoria/normative-cantieri.html): codice appalti, NTC, sicurezza e regole di cantiere.
+- [Materiali & Tecnologie](https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html): materiali innovativi, BIM, legno, stampa 3D.
+- [Mercato & Immobiliare](https://www.ilgiornaleedile.it/categoria/mercato-immobiliare.html): prezzi, mutui, investimenti e imprese di costruzione.
+- [Serramenti & Infissi](https://www.ilgiornaleedile.it/categoria/serramenti-infissi.html): finestre, porte e produttori di serramenti a confronto.
+
+## Ultimi articoli
+
+- [Mercato immobiliare 2026: prezzi, trend e città dove investire](https://www.ilgiornaleedile.it/articoli/mercato-immobiliare-2026-prezzi.html): quadro aggiornato dei prezzi nelle principali città italiane.
+- [Quanto costa ristrutturare casa nel 2026: prezzi al mq](https://www.ilgiornaleedile.it/articoli/costo-ristrutturazione-al-mq-2026.html): prezzi voce per voce per intervento leggero, medio e completo.
+- [Direttiva Case Green UE: cosa cambia dal 2026](https://www.ilgiornaleedile.it/articoli/direttiva-case-green-cosa-cambia.html): obblighi di riqualificazione e tappe al 2030.
+- [I 5 migliori fornitori di pannelli solari in Italia](https://www.ilgiornaleedile.it/articoli/top-5-fornitori-pannelli-solari.html): Maxeon, REC, LONGi, Trina e JA Solar a confronto.
+- [Le 5 migliori pompe di calore del 2026](https://www.ilgiornaleedile.it/articoli/top-5-pompe-di-calore.html): Daikin, Mitsubishi, Vaillant, Viessmann e LG a confronto.
+- [I 5 migliori produttori di serramenti in Italia](https://www.ilgiornaleedile.it/articoli/top-5-produttori-serramenti.html): Internorm, Finstral, Schüco, Oknoplast e Veka.
+- [Ristrutturazione chiavi in mano: come funziona e quanto costa](https://www.ilgiornaleedile.it/articoli/ristrutturazione-chiavi-in-mano.html): contratto, capitolato, tempi e prezzi al mq.
+- [Costruire una casa prefabbricata: i costi reali nel 2026](https://www.ilgiornaleedile.it/articoli/costruire-casa-prefabbricata-costi.html): prezzi al mq per legno, acciaio e cemento.
+- [Fotovoltaico sul tetto: costi, permessi e iter 2026](https://www.ilgiornaleedile.it/articoli/fotovoltaico-costi-permessi-2026.html): quanto costa un impianto chiavi in mano e quando servono i permessi.
+- [BIM obbligatorio: scadenze e soglie 2026](https://www.ilgiornaleedile.it/articoli/bim-obbligatorio-scadenze.html): cosa devono fare imprese e studi per adeguarsi.
+- [Sicurezza in cantiere: le novità del D.Lgs 81/08](https://www.ilgiornaleedile.it/articoli/sicurezza-cantiere-dlgs-81-novita.html): patentino, ponteggi e coordinamento aggiornati.
+- [Cappotto termico: EPS, lana di roccia o sughero?](https://www.ilgiornaleedile.it/articoli/cappotto-termico-materiali-confronto.html): materiali isolanti a confronto per prestazioni e costi.
+- [Mutui green: quanto si risparmia con una casa efficiente](https://www.ilgiornaleedile.it/articoli/mutui-green-casa-efficiente.html): condizioni, banche e requisiti di classe energetica.
+- [Nuovo Codice Appalti D.Lgs 36/2023: le novità](https://www.ilgiornaleedile.it/articoli/codice-appalti-dlgs-36-2023.html): digitalizzazione, soglie e qualificazione per imprese e professionisti.
+- [Edilizia in legno e XLAM: perché conviene davvero](https://www.ilgiornaleedile.it/articoli/edilizia-legno-xlam.html): tempi, prestazioni antisismiche e costi al mq.
+
+## Informazioni editoriali
+
+- [Chi siamo e la redazione](https://www.ilgiornaleedile.it/chi-siamo.html): la testata, le scelte editoriali e gli autori.
+- [Contatti](https://www.ilgiornaleedile.it/contatti.html): come scrivere alla redazione.
+- [Pubblicità](https://www.ilgiornaleedile.it/pubblicita.html): formati e contatti commerciali.
+- [Note legali](https://www.ilgiornaleedile.it/note-legali.html): dati della testata e responsabilità editoriale.
+- [Privacy policy](https://www.ilgiornaleedile.it/privacy.html): trattamento dei dati personali.
+- [Cookie policy](https://www.ilgiornaleedile.it/cookie-policy.html): cookie utilizzati dal sito.
+- [Feed RSS](https://www.ilgiornaleedile.it/feed.xml): feed dei contenuti pubblicati.
+- [Mappa del sito](https://www.ilgiornaleedile.it/sitemap.html): indice completo di tutte le pagine.

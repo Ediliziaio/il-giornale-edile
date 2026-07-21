@@ -1,0 +1,58 @@
+# Il Giornale Edile — robots.txt
+# Politica AI-friendly: questa testata giornalistica online accoglie esplicitamente
+# i crawler dei motori di ricerca e dei sistemi di intelligenza artificiale,
+# perché i nostri contenuti possano essere indicizzati e citati correttamente.
+
+# Crawler generici: accesso completo
+User-agent: *
+Allow: /
+
+# OpenAI (ChatGPT / GPTBot)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google (training AI / Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+
+# ByteDance
+User-agent: Bytespider
+Allow: /
+
+# Meta AI
+User-agent: meta-externalagent
+Allow: /
+
+# Apple (Apple Intelligence)
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://www.ilgiornaleedile.it/sitemap.xml
+Sitemap: https://www.ilgiornaleedile.it/sitemap-news.xml
