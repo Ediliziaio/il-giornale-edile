@@ -4,63 +4,63 @@
 
 ## Guide pilastro
 
-- [Pannelli solari e fotovoltaico: la guida completa 2026](https://www.rassegnaedile.it/articoli/pannelli-solari-fotovoltaico-guida.html): come funzionano, tipi, costi, detrazioni, permessi, accumulo e CER.
-- [Bonus Ristrutturazione 2026: la guida completa](https://www.rassegnaedile.it/articoli/bonus-ristrutturazione-2026-guida-completa.html): aliquote 50%/36%, massimali, interventi ammessi e adempimenti.
-- [Ecobonus: come funziona, interventi ammessi e requisiti](https://www.rassegnaedile.it/articoli/ecobonus-65-guida.html): detrazione per l'efficienza energetica spiegata con adempimenti ENEA.
-- [Infissi in PVC, alluminio o legno: il confronto definitivo](https://www.rassegnaedile.it/articoli/infissi-pvc-alluminio-legno-confronto.html): trasmittanza, acustica, durata, manutenzione e costi al mq.
-- [Superbonus 2026: cosa resta e come accedere](https://www.rassegnaedile.it/articoli/superbonus-2026-cosa-resta.html): aliquote residue, scadenze e recupero delle detrazioni.
-- [Comunità energetiche (CER): cosa sono e quanto si guadagna](https://www.rassegnaedile.it/articoli/comunita-energetiche-cer-guida.html): incentivo ventennale e costituzione passo passo.
-- [Accumulo fotovoltaico: la guida completa 2026](https://www.rassegnaedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html): prezzi per taglia, chimiche LFP e NMC, dimensionamento in kWh e detrazione 50%.
-- [Posa in opera degli infissi: la guida 2026](https://www.rassegnaedile.it/articoli/posa-in-opera-infissi-guida.html): fasi, materiali, costi al mq ed errori da evitare nell'installazione.
-- [Tutte le guide e le Top 5](https://www.rassegnaedile.it/guide.html): indice completo di guide e classifiche redazionali.
+- [Pannelli solari e fotovoltaico: la guida completa 2026](https://www.ilgiornaleedile.it/articoli/pannelli-solari-fotovoltaico-guida.html): come funzionano, tipi, costi, detrazioni, permessi, accumulo e CER.
+- [Bonus Ristrutturazione 2026: la guida completa](https://www.ilgiornaleedile.it/articoli/bonus-ristrutturazione-2026-guida-completa.html): aliquote 50%/36%, massimali, interventi ammessi e adempimenti.
+- [Ecobonus: come funziona, interventi ammessi e requisiti](https://www.ilgiornaleedile.it/articoli/ecobonus-65-guida.html): detrazione per l'efficienza energetica spiegata con adempimenti ENEA.
+- [Infissi in PVC, alluminio o legno: il confronto definitivo](https://www.ilgiornaleedile.it/articoli/infissi-pvc-alluminio-legno-confronto.html): trasmittanza, acustica, durata, manutenzione e costi al mq.
+- [Superbonus 2026: cosa resta e come accedere](https://www.ilgiornaleedile.it/articoli/superbonus-2026-cosa-resta.html): aliquote residue, scadenze e recupero delle detrazioni.
+- [Comunità energetiche (CER): cosa sono e quanto si guadagna](https://www.ilgiornaleedile.it/articoli/comunita-energetiche-cer-guida.html): incentivo ventennale e costituzione passo passo.
+- [Accumulo fotovoltaico: la guida completa 2026](https://www.ilgiornaleedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html): prezzi per taglia, chimiche LFP e NMC, dimensionamento in kWh e detrazione 50%.
+- [Posa in opera degli infissi: la guida 2026](https://www.ilgiornaleedile.it/articoli/posa-in-opera-infissi-guida.html): fasi, materiali, costi al mq ed errori da evitare nell'installazione.
+- [Tutte le guide e le Top 5](https://www.ilgiornaleedile.it/guide.html): indice completo di guide e classifiche redazionali.
 
 ## Categorie
 
-- [Bonus & Fisco](https://www.rassegnaedile.it/categoria/bonus-fiscali.html): detrazioni, bonus edilizi e adempimenti fiscali.
-- [Energia & Rinnovabili](https://www.rassegnaedile.it/categoria/energia-rinnovabili.html): fotovoltaico, pompe di calore, CER ed efficienza energetica.
-- [Normative & Cantieri](https://www.rassegnaedile.it/categoria/normative-cantieri.html): codice appalti, NTC, sicurezza e regole di cantiere.
-- [Materiali & Tecnologie](https://www.rassegnaedile.it/categoria/materiali-tecnologie.html): materiali innovativi, BIM, legno, stampa 3D.
-- [Mercato & Immobiliare](https://www.rassegnaedile.it/categoria/mercato-immobiliare.html): prezzi, mutui, investimenti e imprese di costruzione.
-- [Serramenti & Infissi](https://www.rassegnaedile.it/categoria/serramenti-infissi.html): finestre, porte e produttori di serramenti a confronto.
+- [Bonus & Fisco](https://www.ilgiornaleedile.it/categoria/bonus-fiscali.html): detrazioni, bonus edilizi e adempimenti fiscali.
+- [Energia & Rinnovabili](https://www.ilgiornaleedile.it/categoria/energia-rinnovabili.html): fotovoltaico, pompe di calore, CER ed efficienza energetica.
+- [Normative & Cantieri](https://www.ilgiornaleedile.it/categoria/normative-cantieri.html): codice appalti, NTC, sicurezza e regole di cantiere.
+- [Materiali & Tecnologie](https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html): materiali innovativi, BIM, legno, stampa 3D.
+- [Mercato & Immobiliare](https://www.ilgiornaleedile.it/categoria/mercato-immobiliare.html): prezzi, mutui, investimenti e imprese di costruzione.
+- [Serramenti & Infissi](https://www.ilgiornaleedile.it/categoria/serramenti-infissi.html): finestre, porte e produttori di serramenti a confronto.
 
 ## Ultimi articoli
 
-- [Le 5 migliori batterie di accumulo per fotovoltaico del 2026](https://www.rassegnaedile.it/articoli/top-5-batterie-accumulo-2026.html): Tesla, BYD, Huawei, Pylontech e Sonnen a confronto su capacità, cicli, garanzia e prezzi.
-- [Comunità energetica in condominio: il caso studio](https://www.rassegnaedile.it/articoli/cer-condominio-caso-studio.html): costituzione, incentivo, riparto tra condomini e numeri reali.
-- [Prezzario regionale lavori edili: la guida 2026](https://www.rassegnaedile.it/articoli/prezzario-regionale-lavori-edili-guida.html): come si legge una voce, dove scaricarlo e quando è obbligatorio.
-- [Caldaia a condensazione o pompa di calore nel 2026?](https://www.rassegnaedile.it/articoli/caldaia-condensazione-o-pompa-di-calore.html): costi, consumi reali, incentivi e quando conviene davvero.
-- [Sostituire gli infissi in condominio: l'iter completo](https://www.rassegnaedile.it/articoli/sostituzione-infissi-condominio-iter.html): delibera, decoro architettonico, maggioranze e detrazioni.
-- [Isolare le pareti dall'interno: la guida completa](https://www.rassegnaedile.it/articoli/isolamento-interno-pareti-guida.html): materiali, contropareti, costi al mq, rischio condensa e detrazioni.
-- [Edilizia scolastica e PNRR: il punto sui cantieri](https://www.rassegnaedile.it/articoli/edilizia-scolastica-pnrr-cantieri.html): cantieri aperti, fondi stanziati e tempi di gara.
-- [Pannelli fotovoltaici TOPCon, HJT e PERC a confronto](https://www.rassegnaedile.it/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html): efficienza, resa reale, degrado, garanzie e prezzi 2026.
-- [Normativa antincendio in edilizia 2026](https://www.rassegnaedile.it/articoli/normativa-antincendio-edilizia-2026.html): Codice di prevenzione incendi, SCIA, adempimenti in cantiere e responsabilità.
-- [Vetro basso emissivo e selettivo: la guida 2026](https://www.rassegnaedile.it/articoli/vetri-basso-emissivi-selettivi-guida.html): valori Ug e fattore solare g, doppio o triplo vetro, costi e detrazioni.
-- [Bonus mobili 2026: regole e massimali](https://www.rassegnaedile.it/articoli/bonus-mobili-2026-guida.html): detrazione 50%, massimale 5.000 euro, requisiti e pagamenti tracciati.
-- [Posa in opera certificata degli infissi](https://www.rassegnaedile.it/articoli/posa-in-opera-infissi-guida.html): perché l'installazione vale quanto il serramento.
-- [Batteria di accumulo fotovoltaico: guida 2026](https://www.rassegnaedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html): dimensionamento in kWh e quando conviene davvero.
-- [Mercato immobiliare 2026: prezzi, trend e città dove investire](https://www.rassegnaedile.it/articoli/mercato-immobiliare-2026-prezzi.html): quadro aggiornato dei prezzi nelle principali città italiane.
-- [Quanto costa ristrutturare casa nel 2026: prezzi al mq](https://www.rassegnaedile.it/articoli/costo-ristrutturazione-al-mq-2026.html): prezzi voce per voce per intervento leggero, medio e completo.
-- [Direttiva Case Green UE: cosa cambia dal 2026](https://www.rassegnaedile.it/articoli/direttiva-case-green-cosa-cambia.html): obblighi di riqualificazione e tappe al 2030.
-- [I 5 migliori fornitori di pannelli solari in Italia](https://www.rassegnaedile.it/articoli/top-5-fornitori-pannelli-solari.html): Maxeon, REC, LONGi, Trina e JA Solar a confronto.
-- [Le 5 migliori pompe di calore del 2026](https://www.rassegnaedile.it/articoli/top-5-pompe-di-calore.html): Daikin, Mitsubishi, Vaillant, Viessmann e LG a confronto.
-- [I 5 migliori produttori di serramenti in Italia](https://www.rassegnaedile.it/articoli/top-5-produttori-serramenti.html): Internorm, Finstral, Schüco, Oknoplast e Veka.
-- [Ristrutturazione chiavi in mano: come funziona e quanto costa](https://www.rassegnaedile.it/articoli/ristrutturazione-chiavi-in-mano.html): contratto, capitolato, tempi e prezzi al mq.
-- [Costruire una casa prefabbricata: i costi reali nel 2026](https://www.rassegnaedile.it/articoli/costruire-casa-prefabbricata-costi.html): prezzi al mq per legno, acciaio e cemento.
-- [Fotovoltaico sul tetto: costi, permessi e iter 2026](https://www.rassegnaedile.it/articoli/fotovoltaico-costi-permessi-2026.html): quanto costa un impianto chiavi in mano e quando servono i permessi.
-- [BIM obbligatorio: scadenze e soglie 2026](https://www.rassegnaedile.it/articoli/bim-obbligatorio-scadenze.html): cosa devono fare imprese e studi per adeguarsi.
-- [Sicurezza in cantiere: le novità del D.Lgs 81/08](https://www.rassegnaedile.it/articoli/sicurezza-cantiere-dlgs-81-novita.html): patentino, ponteggi e coordinamento aggiornati.
-- [Cappotto termico: EPS, lana di roccia o sughero?](https://www.rassegnaedile.it/articoli/cappotto-termico-materiali-confronto.html): materiali isolanti a confronto per prestazioni e costi.
-- [Mutui green: quanto si risparmia con una casa efficiente](https://www.rassegnaedile.it/articoli/mutui-green-casa-efficiente.html): condizioni, banche e requisiti di classe energetica.
-- [Nuovo Codice Appalti D.Lgs 36/2023: le novità](https://www.rassegnaedile.it/articoli/codice-appalti-dlgs-36-2023.html): digitalizzazione, soglie e qualificazione per imprese e professionisti.
-- [Edilizia in legno e XLAM: perché conviene davvero](https://www.rassegnaedile.it/articoli/edilizia-legno-xlam.html): tempi, prestazioni antisismiche e costi al mq.
+- [Le 5 migliori batterie di accumulo per fotovoltaico del 2026](https://www.ilgiornaleedile.it/articoli/top-5-batterie-accumulo-2026.html): Tesla, BYD, Huawei, Pylontech e Sonnen a confronto su capacità, cicli, garanzia e prezzi.
+- [Comunità energetica in condominio: il caso studio](https://www.ilgiornaleedile.it/articoli/cer-condominio-caso-studio.html): costituzione, incentivo, riparto tra condomini e numeri reali.
+- [Prezzario regionale lavori edili: la guida 2026](https://www.ilgiornaleedile.it/articoli/prezzario-regionale-lavori-edili-guida.html): come si legge una voce, dove scaricarlo e quando è obbligatorio.
+- [Caldaia a condensazione o pompa di calore nel 2026?](https://www.ilgiornaleedile.it/articoli/caldaia-condensazione-o-pompa-di-calore.html): costi, consumi reali, incentivi e quando conviene davvero.
+- [Sostituire gli infissi in condominio: l'iter completo](https://www.ilgiornaleedile.it/articoli/sostituzione-infissi-condominio-iter.html): delibera, decoro architettonico, maggioranze e detrazioni.
+- [Isolare le pareti dall'interno: la guida completa](https://www.ilgiornaleedile.it/articoli/isolamento-interno-pareti-guida.html): materiali, contropareti, costi al mq, rischio condensa e detrazioni.
+- [Edilizia scolastica e PNRR: il punto sui cantieri](https://www.ilgiornaleedile.it/articoli/edilizia-scolastica-pnrr-cantieri.html): cantieri aperti, fondi stanziati e tempi di gara.
+- [Pannelli fotovoltaici TOPCon, HJT e PERC a confronto](https://www.ilgiornaleedile.it/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html): efficienza, resa reale, degrado, garanzie e prezzi 2026.
+- [Normativa antincendio in edilizia 2026](https://www.ilgiornaleedile.it/articoli/normativa-antincendio-edilizia-2026.html): Codice di prevenzione incendi, SCIA, adempimenti in cantiere e responsabilità.
+- [Vetro basso emissivo e selettivo: la guida 2026](https://www.ilgiornaleedile.it/articoli/vetri-basso-emissivi-selettivi-guida.html): valori Ug e fattore solare g, doppio o triplo vetro, costi e detrazioni.
+- [Bonus mobili 2026: regole e massimali](https://www.ilgiornaleedile.it/articoli/bonus-mobili-2026-guida.html): detrazione 50%, massimale 5.000 euro, requisiti e pagamenti tracciati.
+- [Posa in opera certificata degli infissi](https://www.ilgiornaleedile.it/articoli/posa-in-opera-infissi-guida.html): perché l'installazione vale quanto il serramento.
+- [Batteria di accumulo fotovoltaico: guida 2026](https://www.ilgiornaleedile.it/articoli/accumulo-fotovoltaico-batterie-guida.html): dimensionamento in kWh e quando conviene davvero.
+- [Mercato immobiliare 2026: prezzi, trend e città dove investire](https://www.ilgiornaleedile.it/articoli/mercato-immobiliare-2026-prezzi.html): quadro aggiornato dei prezzi nelle principali città italiane.
+- [Quanto costa ristrutturare casa nel 2026: prezzi al mq](https://www.ilgiornaleedile.it/articoli/costo-ristrutturazione-al-mq-2026.html): prezzi voce per voce per intervento leggero, medio e completo.
+- [Direttiva Case Green UE: cosa cambia dal 2026](https://www.ilgiornaleedile.it/articoli/direttiva-case-green-cosa-cambia.html): obblighi di riqualificazione e tappe al 2030.
+- [I 5 migliori fornitori di pannelli solari in Italia](https://www.ilgiornaleedile.it/articoli/top-5-fornitori-pannelli-solari.html): Maxeon, REC, LONGi, Trina e JA Solar a confronto.
+- [Le 5 migliori pompe di calore del 2026](https://www.ilgiornaleedile.it/articoli/top-5-pompe-di-calore.html): Daikin, Mitsubishi, Vaillant, Viessmann e LG a confronto.
+- [I 5 migliori produttori di serramenti in Italia](https://www.ilgiornaleedile.it/articoli/top-5-produttori-serramenti.html): Internorm, Finstral, Schüco, Oknoplast e Veka.
+- [Ristrutturazione chiavi in mano: come funziona e quanto costa](https://www.ilgiornaleedile.it/articoli/ristrutturazione-chiavi-in-mano.html): contratto, capitolato, tempi e prezzi al mq.
+- [Costruire una casa prefabbricata: i costi reali nel 2026](https://www.ilgiornaleedile.it/articoli/costruire-casa-prefabbricata-costi.html): prezzi al mq per legno, acciaio e cemento.
+- [Fotovoltaico sul tetto: costi, permessi e iter 2026](https://www.ilgiornaleedile.it/articoli/fotovoltaico-costi-permessi-2026.html): quanto costa un impianto chiavi in mano e quando servono i permessi.
+- [BIM obbligatorio: scadenze e soglie 2026](https://www.ilgiornaleedile.it/articoli/bim-obbligatorio-scadenze.html): cosa devono fare imprese e studi per adeguarsi.
+- [Sicurezza in cantiere: le novità del D.Lgs 81/08](https://www.ilgiornaleedile.it/articoli/sicurezza-cantiere-dlgs-81-novita.html): patentino, ponteggi e coordinamento aggiornati.
+- [Cappotto termico: EPS, lana di roccia o sughero?](https://www.ilgiornaleedile.it/articoli/cappotto-termico-materiali-confronto.html): materiali isolanti a confronto per prestazioni e costi.
+- [Mutui green: quanto si risparmia con una casa efficiente](https://www.ilgiornaleedile.it/articoli/mutui-green-casa-efficiente.html): condizioni, banche e requisiti di classe energetica.
+- [Nuovo Codice Appalti D.Lgs 36/2023: le novità](https://www.ilgiornaleedile.it/articoli/codice-appalti-dlgs-36-2023.html): digitalizzazione, soglie e qualificazione per imprese e professionisti.
+- [Edilizia in legno e XLAM: perché conviene davvero](https://www.ilgiornaleedile.it/articoli/edilizia-legno-xlam.html): tempi, prestazioni antisismiche e costi al mq.
 
 ## Informazioni editoriali
 
-- [Chi siamo e la redazione](https://www.rassegnaedile.it/chi-siamo.html): la testata, le scelte editoriali e gli autori.
-- [Contatti](https://www.rassegnaedile.it/contatti.html): come scrivere alla redazione.
-- [Pubblicità](https://www.rassegnaedile.it/pubblicita.html): formati e contatti commerciali.
-- [Note legali](https://www.rassegnaedile.it/note-legali.html): dati della testata e responsabilità editoriale.
-- [Privacy policy](https://www.rassegnaedile.it/privacy.html): trattamento dei dati personali.
-- [Cookie policy](https://www.rassegnaedile.it/cookie-policy.html): cookie utilizzati dal sito.
-- [Feed RSS](https://www.rassegnaedile.it/feed.xml): feed dei contenuti pubblicati.
-- [Mappa del sito](https://www.rassegnaedile.it/sitemap.html): indice completo di tutte le pagine.
+- [Chi siamo e la redazione](https://www.ilgiornaleedile.it/chi-siamo.html): la testata, le scelte editoriali e gli autori.
+- [Contatti](https://www.ilgiornaleedile.it/contatti.html): come scrivere alla redazione.
+- [Pubblicità](https://www.ilgiornaleedile.it/pubblicita.html): formati e contatti commerciali.
+- [Note legali](https://www.ilgiornaleedile.it/note-legali.html): dati della testata e responsabilità editoriale.
+- [Privacy policy](https://www.ilgiornaleedile.it/privacy.html): trattamento dei dati personali.
+- [Cookie policy](https://www.ilgiornaleedile.it/cookie-policy.html): cookie utilizzati dal sito.
+- [Feed RSS](https://www.ilgiornaleedile.it/feed.xml): feed dei contenuti pubblicati.
+- [Mappa del sito](https://www.ilgiornaleedile.it/sitemap.html): indice completo di tutte le pagine.

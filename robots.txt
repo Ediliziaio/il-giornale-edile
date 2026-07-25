@@ -54,4 +54,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://www.rassegnaedile.it/sitemap.xml
+Sitemap: https://www.ilgiornaleedile.it/sitemap.xml
