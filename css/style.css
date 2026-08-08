@@ -319,3 +319,7 @@ h1, h2, h3, h4 { font-family: var(--font-head); font-weight: 800; line-height: 1
 /* Copertina articolo (immagine reale) */
 .article-body figure.cover { margin: 0 0 1.6em; }
 .article-body figure.cover img { border-radius: var(--radius); width: 100%; height: auto; }
+
+/* Pagine autore: elenco articoli */
+.au-desc { display: block; margin-top: 4px; font-size: 14.5px; color: #666; line-height: 1.5; }
+.rl-list .rl-item { margin-bottom: 14px; }
