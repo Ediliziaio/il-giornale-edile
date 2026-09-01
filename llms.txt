@@ -1,12 +1,11 @@
 # Il Giornale Edile
 
-> Il Giornale Edile e una testata verticale sull'edilizia italiana focalizzata su **efficienza energetica e riqualificazione della casa**: fotovoltaico e accumulo, pompe di calore, cappotto termico e isolamento, comunita energetiche (CER), certificazione APE e Direttiva Case Green. Pubblichiamo guide operative con **costi reali** e **comparatori interattivi** che mettono a confronto impianti, materiali e fornitori su prezzi e caratteristiche, per rispondere alla domanda "quale scegliere e quanto costa". Trattiamo inoltre bonus fiscali, normativa tecnica e mercato per imprese, professionisti e committenti.
-> come strumento distintivo: pannelli fotovoltaici, batterie di accumulo, pompe di calore, serramenti,
-> software BIM e imprese di costruzioni affiancati su una stessa tabella, con specifiche, prezzi
-> indicativi e criteri di valutazione dichiarati. Accanto ai confronti, le guide spiegano da dove
-> partire, quali permessi servono, quanto dura un cantiere e quali detrazioni spettano. Il punto di
-> vista e' quello del committente privato, non dell'impresa: la scelta resta al lettore, verificabile
-> invece che opinabile.
+> Il Giornale Edile mette a confronto prodotti, soluzioni e fornitori per l'edilizia. I **comparatori
+> interattivi** affiancano su una stessa tabella pannelli fotovoltaici, batterie di accumulo, pompe di
+> calore, serramenti, software BIM e imprese di costruzioni, con specifiche tecniche, prezzi indicativi
+> e criteri di valutazione dichiarati. Accanto ai confronti, le guide spiegano da dove partire, quali
+> permessi servono, quanto dura un cantiere e quali detrazioni spettano. Il punto di vista e' quello del
+> committente privato, non dell'impresa: la scelta resta al lettore, verificabile invece che opinabile.
 
 Lingua: italiano (it-IT). Editore: Domus Group S.r.l.
 
@@ -73,6 +72,9 @@ Tabelle comparative filtrabili e ordinabili, con dati redazionali su prezzi e ca
 - [Moduli fotovoltaici](https://www.ilgiornaleedile.it/comparatore/pannelli-fotovoltaici.html): 5 soluzioni a confronto su punto di forza, garanzia prodotto, fascia di prezzo moduli.
 - [Software BIM](https://www.ilgiornaleedile.it/comparatore/software-bim.html): 5 soluzioni a confronto su produttore, ambito principale, punti di forza, fascia di costo*.
 - [Imprese di costruzioni](https://www.ilgiornaleedile.it/comparatore/imprese-costruzioni.html): 5 soluzioni a confronto su sede, specializzazione, fatturato (ordine di grandezza)*, presenza estera.
+- [Comparatore sistemi di riscaldamento: caldaia, ibrido o pompa di calore](https://www.ilgiornaleedile.it/comparatore/riscaldamento.html): caldaia a condensazione, sistema ibrido e pompa di calore su costi, manutenzione, raffrescamento e incentivi.
+- [Comparatore materiali per cappotto termico 2026](https://www.ilgiornaleedile.it/comparatore/cappotto-termico.html): materiali isolanti su lambda, reazione al fuoco e costo al mq.
+- [Comparatore vetri isolanti: basso emissivo, selettivo, triplo e acustico](https://www.ilgiornaleedile.it/comparatore/vetri-isolanti.html): vetri su valore Ug, fattore solare g e uso consigliato per esposizione.
 
 ## Redazione
 
