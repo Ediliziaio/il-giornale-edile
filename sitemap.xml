@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.ilgiornaleedile.it/</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/batterie-accumulo.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/imprese-costruzioni.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/pannelli-fotovoltaici.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/pompe-di-calore.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/serramenti.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/comparatore/software-bim.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.ilgiornaleedile.it/categoria/bonus-fiscali.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.ilgiornaleedile.it/categoria/energia-rinnovabili.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html</loc><lastmod>2026-09-01</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -61,10 +68,10 @@
   <url><loc>https://www.ilgiornaleedile.it/autore/paolo-zanardi.html</loc><lastmod>2026-09-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.ilgiornaleedile.it/autore/stefano-guidotti.html</loc><lastmod>2026-09-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.ilgiornaleedile.it/chi-siamo.html</loc><lastmod>2026-09-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.ilgiornaleedile.it/contatti.html</loc><lastmod>2026-07-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.ilgiornaleedile.it/cookie-policy.html</loc><lastmod>2026-07-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://www.ilgiornaleedile.it/note-legali.html</loc><lastmod>2026-07-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://www.ilgiornaleedile.it/privacy.html</loc><lastmod>2026-07-25</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://www.ilgiornaleedile.it/pubblicita.html</loc><lastmod>2026-07-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.ilgiornaleedile.it/sitemap.html</loc><lastmod>2026-07-25</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/contatti.html</loc><lastmod>2026-09-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/cookie-policy.html</loc><lastmod>2026-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/note-legali.html</loc><lastmod>2026-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/privacy.html</loc><lastmod>2026-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/pubblicita.html</loc><lastmod>2026-09-01</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.ilgiornaleedile.it/sitemap.html</loc><lastmod>2026-09-01</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
 </urlset>

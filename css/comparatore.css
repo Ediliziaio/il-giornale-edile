@@ -1,0 +1,69 @@
+/* ============================================================
+   COMPARATORE — Il Giornale Edile
+   Tabella comparativa desktop -> card dense su mobile
+   ============================================================ */
+.cmp-intro { font-size: 19px; color: var(--ink-soft); margin: 0 0 20px; max-width: 760px; }
+.cmp-intro strong { color: var(--ink); }
+
+/* Barra controlli */
+.cmp-controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 0 0 14px; }
+.cmp-search {
+  flex: 1 1 260px; min-width: 0; padding: 10px 14px; font: inherit; font-size: 15px;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper);
+}
+.cmp-search:focus { outline: 2px solid var(--brand); outline-offset: -1px; }
+.cmp-sort { padding: 10px 12px; font: inherit; font-size: 14.5px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+.cmp-count { font-size: 13.5px; color: var(--ink-mute); white-space: nowrap; }
+.cmp-reset { background: none; border: 0; color: var(--brand); font: inherit; font-size: 14px; cursor: pointer; padding: 6px 2px; text-decoration: underline; }
+
+/* Tabella */
+.cmp-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); }
+table.cmp { width: 100%; border-collapse: collapse; font-size: 15px; background: var(--paper); }
+table.cmp th, table.cmp td { padding: 12px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+table.cmp thead th {
+  background: var(--paper-warm); font-family: var(--font-head); font-weight: 800;
+  font-size: 12.5px; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-soft);
+  position: sticky; top: 0; white-space: nowrap;
+}
+table.cmp thead th.sortable { cursor: pointer; user-select: none; }
+table.cmp thead th.sortable::after { content: " ⇅"; opacity: .35; font-size: 11px; }
+table.cmp thead th[aria-sort="ascending"]::after { content: " ↑"; opacity: 1; color: var(--brand); }
+table.cmp thead th[aria-sort="descending"]::after { content: " ↓"; opacity: 1; color: var(--brand); }
+table.cmp tbody tr:hover { background: #fbfaf9; }
+table.cmp tbody tr:last-child td { border-bottom: 0; }
+table.cmp td:first-child { font-weight: 700; color: var(--ink); }
+.cmp-rank { display: inline-block; min-width: 22px; height: 22px; line-height: 22px; text-align: center; background: var(--ink); color: #fff; font-size: 12px; font-weight: 800; border-radius: 3px; margin-right: 8px; }
+.cmp-empty { padding: 22px 14px; color: var(--ink-mute); font-size: 15px; }
+
+/* Nota metodologica */
+.cmp-note { font-size: 13.5px; color: var(--ink-mute); margin: 12px 0 0; line-height: 1.55; }
+
+/* Hub */
+.cmp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; margin: 22px 0 8px; }
+.cmp-card { border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; background: var(--paper); transition: box-shadow .15s ease, transform .15s ease; }
+.cmp-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+.cmp-card h3 { font-size: 19px; margin: 0 0 6px; }
+.cmp-card p { font-size: 14.5px; color: var(--ink-soft); margin: 0 0 10px; line-height: 1.5; }
+.cmp-card .cmp-meta { font-size: 12.5px; color: var(--ink-mute); font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+
+/* ---------- MOBILE: tabella -> card dense, zero spazio vuoto ---------- */
+@media (max-width: 760px) {
+  .cmp-wrap { border: 0; overflow: visible; }
+  table.cmp thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  table.cmp, table.cmp tbody, table.cmp tr, table.cmp td { display: block; width: 100%; }
+  table.cmp tr {
+    border: 1px solid var(--line); border-radius: var(--radius);
+    margin-bottom: 10px; padding: 12px 14px; background: var(--paper);
+  }
+  table.cmp td { border: 0; padding: 4px 0; font-size: 14.5px; }
+  table.cmp td:first-child { font-size: 17px; font-family: var(--font-head); font-weight: 800; padding-bottom: 8px; }
+  table.cmp td[data-label]:not(:first-child)::before {
+    content: attr(data-label) ": "; font-weight: 700; color: var(--ink-mute);
+    font-size: 12.5px; letter-spacing: .04em; text-transform: uppercase;
+  }
+  .cmp-controls { gap: 8px; }
+  .cmp-search { flex: 1 1 100%; }
+  .cmp-sort { flex: 1 1 auto; }
+  .cmp-count { flex: 0 0 auto; }
+  .cmp-intro { font-size: 17px; }
+}

@@ -1,6 +1,11 @@
 # Il Giornale Edile
 
-> Il Giornale Edile e una testata verticale sull'edilizia italiana specializzata in **confronti tecnici, classifiche Top 5 e prezzi reali**: mettiamo a confronto materiali, impianti, serramenti, software e fornitori con tabelle comparative, dati di prezzo e criteri di scelta espliciti. Ogni guida risponde alla domanda "quale scegliere e quanto costa", non solo "che cos'e". Pubblichiamo inoltre aggiornamenti su bonus fiscali, normativa tecnica ed efficienza energetica per imprese, professionisti e committenti.
+> Il Giornale Edile e' il sito italiano dedicato all'**efficienza energetica e alla casa green**:
+> fotovoltaico e accumulo, pompe di calore, cappotto termico, comunita' energetiche rinnovabili,
+> certificazione APE, Conto Termico e Direttiva Case Green. Guide operative con costi reali,
+> requisiti tecnici e criteri di scelta, pensate per chi deve riqualificare un edificio.
+
+Lingua: italiano (it-IT). Editore: Domus Group S.r.l.
 
 ## Guide pilastro
 
@@ -53,6 +58,18 @@
 - [Mutui green: quanto si risparmia con una casa efficiente](https://www.ilgiornaleedile.it/articoli/mutui-green-casa-efficiente.html): condizioni, banche e requisiti di classe energetica.
 - [Nuovo Codice Appalti D.Lgs 36/2023: le novità](https://www.ilgiornaleedile.it/articoli/codice-appalti-dlgs-36-2023.html): digitalizzazione, soglie e qualificazione per imprese e professionisti.
 - [Edilizia in legno e XLAM: perché conviene davvero](https://www.ilgiornaleedile.it/articoli/edilizia-legno-xlam.html): tempi, prestazioni antisismiche e costi al mq.
+
+## Comparatori interattivi
+
+Tabelle comparative filtrabili e ordinabili, con dati redazionali su prezzi e caratteristiche:
+
+- [Tutti i comparatori](https://www.ilgiornaleedile.it/comparatore/): indice degli strumenti di confronto.
+- [Batterie di accumulo](https://www.ilgiornaleedile.it/comparatore/batterie-accumulo.html): 5 soluzioni a confronto su taglie, compatibilità, backup, prezzo 10 kwh installato.
+- [Pompe di calore](https://www.ilgiornaleedile.it/comparatore/pompe-di-calore.html): 5 soluzioni a confronto su serie di riferimento, punto di forza, fascia di prezzo chiavi in mano*.
+- [Produttori di serramenti](https://www.ilgiornaleedile.it/comparatore/serramenti.html): 5 soluzioni a confronto su materiali, posizionamento, punti di forza, fascia di prezzo*.
+- [Moduli fotovoltaici](https://www.ilgiornaleedile.it/comparatore/pannelli-fotovoltaici.html): 5 soluzioni a confronto su punto di forza, garanzia prodotto, fascia di prezzo moduli.
+- [Software BIM](https://www.ilgiornaleedile.it/comparatore/software-bim.html): 5 soluzioni a confronto su produttore, ambito principale, punti di forza, fascia di costo*.
+- [Imprese di costruzioni](https://www.ilgiornaleedile.it/comparatore/imprese-costruzioni.html): 5 soluzioni a confronto su sede, specializzazione, fatturato (ordine di grandezza)*, presenza estera.
 
 ## Redazione
 
