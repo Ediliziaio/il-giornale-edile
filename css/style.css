@@ -339,6 +339,7 @@ h1, h2, h3, h4 { font-family: var(--font-head); font-weight: 800; line-height: 1
 .ad-slot.has-ad.ad-inarticle { width: 320px; }
 @media (max-width: 900px) {
   .ad-slot.has-ad.ad-inarticle { width: 100%; }
-  .ad-slot.has-ad.ad-halfpage,
   .ad-slot.has-ad.ad-rect { width: min(360px, 100%); }
+  /* half-page: creativita verticale 300x600, non allargare su mobile */
+  .ad-slot.has-ad.ad-halfpage { width: 300px; min-height: 0; }
 }
