@@ -15,10 +15,15 @@
   <meta property="og:image" content="https://www.ilgiornaleedile.it/assets/cover-home.webp">
   <meta property="og:locale" content="it_IT">
   <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#C8102E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap">
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/comparatore.css">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"CollectionPage",
    "name":"Bonus & Fisco — Il Giornale Edile","url":"https://www.ilgiornaleedile.it/categoria/bonus-fiscali.html",
@@ -29,6 +34,85 @@
   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
    {"@type":"ListItem","position":1,"name":"Home","item":"https://www.ilgiornaleedile.it/"},
    {"@type":"ListItem","position":2,"name":"Bonus & Fisco"}]}
+  </script>
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quale detrazione spetta per una ristrutturazione nel 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il 50% per l'abitazione principale e il 36% per le altre unità immobiliari, su un massimale di spesa di 96.000 euro per unità, recuperato in dieci rate annuali di pari importo nella dichiarazione dei redditi."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ecobonus e Conto Termico si possono cumulare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, non sullo stesso intervento: sono due strumenti alternativi. L'Ecobonus è una detrazione fiscale ripartita in più anni, il Conto Termico è un contributo erogato direttamente dal GSE in tempi più rapidi. La scelta dipende dalla capienza fiscale e dai tempi di rientro desiderati."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual è l'errore che più spesso fa perdere il bonus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il pagamento non tracciato o effettuato con un bonifico privo delle causali di legge (il cosiddetto bonifico parlante, con norma di riferimento, codice fiscale del beneficiario e partita IVA dell'impresa). Seguono la mancanza del titolo abilitativo e la comunicazione ENEA non trasmessa nei termini."
+      }
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Articoli — Bonus & Fisco",
+  "numberOfItems": 6,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "url": "https://www.ilgiornaleedile.it/articoli/bonus-mobili-2026-guida.html",
+      "name": "Bonus Mobili 2026: Regole e Massimali"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "url": "https://www.ilgiornaleedile.it/articoli/bonus-ristrutturazione-2026-guida-completa.html",
+      "name": "Bonus Ristrutturazione 2026: Guida Completa a Detrazioni e Aliquote"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "url": "https://www.ilgiornaleedile.it/articoli/conto-termico-3-guida.html",
+      "name": "Conto Termico 3.0: incentivi GSE"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "url": "https://www.ilgiornaleedile.it/articoli/detrazioni-ristrutturazione-50-36.html",
+      "name": "Detrazioni 50% e 36%: regole 2026"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "url": "https://www.ilgiornaleedile.it/articoli/ecobonus-65-guida.html",
+      "name": "Ecobonus 2026: guida completa"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "url": "https://www.ilgiornaleedile.it/articoli/superbonus-2026-cosa-resta.html",
+      "name": "Superbonus 2026: cosa resta"
+    }
+  ]
+}
   </script>
 </head>
 <body>
@@ -42,7 +126,7 @@
   </div></div>
   <header class="masthead"><div class="container">
     <a class="logo" href="../index.html" aria-label="Il Giornale Edile - Home">
-      <img src="../assets/logo.png" alt="Il Giornale Edile" width="460" height="44"></a>
+      <img src="../assets/logo.webp" alt="Il Giornale Edile" width="460" height="44"></a>
     <div class="mh-right">
       <p class="mh-tagline">La testata di riferimento per imprese, professionisti e committenti dell'edilizia italiana.</p>
       <a class="btn" href="../index.html#newsletter">Iscriviti gratis</a>
@@ -67,6 +151,19 @@
     <header class="article-head" style="max-width:none;margin-top:6px">
       <h1>Bonus &amp; Fisco</h1>
       <p class="standfirst">Bonus fiscali, detrazioni e agevolazioni per la casa: guide aggiornate su ristrutturazione, Ecobonus, Superbonus e Conto Termico.</p>
+      <section class="cat-guide article-body" style="max-width:820px;margin:0 0 34px">
+        <p class="cmp-intro">Nel 2026 la detrazione per il recupero edilizio vale <strong>50% sull'abitazione principale</strong> e <strong>36% sulle altre unità</strong>, con massimale di spesa di 96.000 euro per unità immobiliare e recupero in dieci rate annuali di pari importo.</p>
+        <p>Attorno a questa regola base ruotano gli altri incentivi: l'<strong>Ecobonus</strong> per gli interventi di efficientamento energetico con i relativi adempimenti ENEA, il <strong>Conto Termico</strong> gestito dal GSE che eroga un contributo diretto invece di una detrazione, il <strong>bonus mobili</strong> con detrazione al 50% entro un massimale di 5.000 euro e ciò che resta del <strong>Superbonus</strong> dopo le ultime revisioni.</p>
+        <p>La differenza tra un cantiere agevolato e uno che perde il beneficio quasi mai dipende dall'intervento in sé: dipende dagli adempimenti. Titolo abilitativo corretto (nella gran parte dei casi la CILA), pagamento con bonifico parlante, conservazione delle fatture e, dove previsto, comunicazione ENEA entro i termini. Sono passaggi formali che valgono decine di migliaia di euro.</p>
+        <p>In questa sezione trovi le regole aggiornate di ciascun incentivo, i massimali, i soggetti che possono accedervi (proprietari, locatari, usufruttuari) e gli errori che più frequentemente fanno decadere l'agevolazione.</p>
+        <h2>Domande frequenti</h2>
+        <div class="faq">
+          <details class="faq-item"><summary>Quale detrazione spetta per una ristrutturazione nel 2026?</summary><div class="faq-a"><p>Il 50% per l&#x27;abitazione principale e il 36% per le altre unità immobiliari, su un massimale di spesa di 96.000 euro per unità, recuperato in dieci rate annuali di pari importo nella dichiarazione dei redditi.</p></div></details>
+          <details class="faq-item"><summary>Ecobonus e Conto Termico si possono cumulare?</summary><div class="faq-a"><p>No, non sullo stesso intervento: sono due strumenti alternativi. L&#x27;Ecobonus è una detrazione fiscale ripartita in più anni, il Conto Termico è un contributo erogato direttamente dal GSE in tempi più rapidi. La scelta dipende dalla capienza fiscale e dai tempi di rientro desiderati.</p></div></details>
+          <details class="faq-item"><summary>Qual è l&#x27;errore che più spesso fa perdere il bonus?</summary><div class="faq-a"><p>Il pagamento non tracciato o effettuato con un bonifico privo delle causali di legge (il cosiddetto bonifico parlante, con norma di riferimento, codice fiscale del beneficiario e partita IVA dell&#x27;impresa). Seguono la mancanza del titolo abilitativo e la comunicazione ENEA non trasmessa nei termini.</p></div></details>
+        </div>
+      </section>
+
     </header>
     <section class="section" aria-label="Articoli della categoria">
       <div class="card-grid">
@@ -131,7 +228,7 @@
   <footer class="site-footer"><div class="container">
     <div class="footer-grid">
       <div>
-        <a class="f-logo" href="../index.html"><img src="../assets/logo.png" alt="Il Giornale Edile" width="240" height="23" loading="lazy"></a>
+        <a class="f-logo" href="../index.html"><img src="../assets/logo.webp" alt="Il Giornale Edile" width="240" height="23" loading="lazy"></a>
         <p class="f-desc">Il Giornale Edile è la testata online dedicata al mondo delle costruzioni: bonus fiscali, norme tecniche, materiali, tecnologie di cantiere e mercato immobiliare.</p>
       </div>
       <nav aria-label="Sezioni del sito"><h4>Sezioni</h4><ul>

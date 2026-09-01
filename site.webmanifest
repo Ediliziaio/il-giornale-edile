@@ -1,0 +1,15 @@
+{
+  "name": "Il Giornale Edile",
+  "short_name": "GiornaleEdile",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C8102E",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

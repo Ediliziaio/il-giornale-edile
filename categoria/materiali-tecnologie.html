@@ -15,10 +15,15 @@
   <meta property="og:image" content="https://www.ilgiornaleedile.it/assets/cover-home.webp">
   <meta property="og:locale" content="it_IT">
   <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#C8102E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&display=swap">
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/comparatore.css">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"CollectionPage",
    "name":"Materiali & Tecnologie — Il Giornale Edile","url":"https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html",
@@ -29,6 +34,97 @@
   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
    {"@type":"ListItem","position":1,"name":"Home","item":"https://www.ilgiornaleedile.it/"},
    {"@type":"ListItem","position":2,"name":"Materiali & Tecnologie"}]}
+  </script>
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quale materiale scegliere per il cappotto termico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EPS è la soluzione più economica e diffusa, la lana di roccia offre migliore reazione al fuoco e prestazione acustica, il sughero è naturale e traspirante ma più costoso. La scelta dipende da budget, requisiti antincendio e comportamento estivo desiderato."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "L'isolamento dall'interno è rischioso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comporta un rischio di condensa interstiziale se la stratigrafia non viene verificata: isolando dall'interno si abbassa la temperatura della muratura esistente. Serve una verifica igrometrica e, quasi sempre, una barriera o un freno al vapore correttamente posato."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Il BIM è obbligatorio anche per i lavori privati?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'obbligo riguarda gli appalti pubblici sopra determinate soglie di importo. Nel privato non è imposto per legge, ma viene sempre più richiesto da committenti strutturati e per opere complesse."
+      }
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Articoli — Materiali & Tecnologie",
+  "numberOfItems": 8,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "url": "https://www.ilgiornaleedile.it/articoli/bim-obbligatorio-scadenze.html",
+      "name": "BIM obbligatorio: scadenze e soglie 2026"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "url": "https://www.ilgiornaleedile.it/articoli/cappotto-termico-materiali-confronto.html",
+      "name": "Cappotto Termico: Guida ai Materiali"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "url": "https://www.ilgiornaleedile.it/articoli/cemento-sostenibile-materiali.html",
+      "name": "Cemento Sostenibile: la Svolta Green"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "url": "https://www.ilgiornaleedile.it/articoli/domotica-smart-home-ristrutturazione.html",
+      "name": "Domotica e Smart Home: Guida e Costi"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "url": "https://www.ilgiornaleedile.it/articoli/edilizia-legno-xlam.html",
+      "name": "Edilizia in Legno XLAM: Guida e Costi"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "url": "https://www.ilgiornaleedile.it/articoli/isolamento-interno-pareti-guida.html",
+      "name": "Isolamento Pareti dall'Interno: Guida"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "url": "https://www.ilgiornaleedile.it/articoli/stampa-3d-edilizia.html",
+      "name": "Stampa 3D in Edilizia: Come Funziona"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "url": "https://www.ilgiornaleedile.it/articoli/top-5-software-bim.html",
+      "name": "Migliori software BIM 2026: confronto"
+    }
+  ]
+}
   </script>
 </head>
 <body>
@@ -42,7 +138,7 @@
   </div></div>
   <header class="masthead"><div class="container">
     <a class="logo" href="../index.html" aria-label="Il Giornale Edile - Home">
-      <img src="../assets/logo.png" alt="Il Giornale Edile" width="460" height="44"></a>
+      <img src="../assets/logo.webp" alt="Il Giornale Edile" width="460" height="44"></a>
     <div class="mh-right">
       <p class="mh-tagline">La testata di riferimento per imprese, professionisti e committenti dell'edilizia italiana.</p>
       <a class="btn" href="../index.html#newsletter">Iscriviti gratis</a>
@@ -67,6 +163,20 @@
     <header class="article-head" style="max-width:none;margin-top:6px">
       <h1>Materiali &amp; Tecnologie</h1>
       <p class="standfirst">Materiali innovativi, BIM, serramenti e tecnologie di cantiere: le soluzioni che stanno cambiando il modo di costruire.</p>
+      <section class="cat-guide article-body" style="max-width:820px;margin:0 0 34px">
+        <p class="cmp-intro">La scelta dei materiali incide sulla prestazione energetica dell'edificio quanto gli impianti: un <strong>cappotto termico</strong> eseguito male o un isolamento interno senza controllo della condensa vanificano qualsiasi pompa di calore.</p>
+        <p>Sull'involucro le alternative principali sono EPS, lana di roccia e sughero, con comportamenti diversi su costo, reazione al fuoco, traspirabilità e prestazione estiva. Quando il cappotto esterno non è praticabile — vincoli architettonici, facciate condominiali, singole unità — resta l'<strong>isolamento dall'interno</strong>, più economico ma con un rischio reale di condensa interstiziale se non si valuta la stratigrafia.</p>
+        <p>Accanto ai materiali tradizionali crescono le soluzioni a minore impronta di carbonio: <strong>cementi sostenibili</strong>, costruzione in <strong>legno XLAM</strong> con tempi di cantiere ridotti e maggiore prefabbricazione, fino alla <strong>stampa 3D</strong>, ancora di nicchia ma non più sperimentale.</p>
+        <p>Sul fronte digitale, il <strong>BIM</strong> è ormai obbligatorio negli appalti pubblici sopra determinate soglie: cambia il modo di progettare e la scelta della piattaforma software diventa una decisione strutturale per studi e imprese.</p>
+        <p class="cmp-note" style="border-left:3px solid var(--brand);padding:12px 16px;background:var(--paper-warm);margin:22px 0"><strong>Confronta i prodotti.</strong> Tabelle interattive con prezzi e caratteristiche: <a href="../comparatore/software-bim.html">software BIM</a>.</p>
+        <h2>Domande frequenti</h2>
+        <div class="faq">
+          <details class="faq-item"><summary>Quale materiale scegliere per il cappotto termico?</summary><div class="faq-a"><p>EPS è la soluzione più economica e diffusa, la lana di roccia offre migliore reazione al fuoco e prestazione acustica, il sughero è naturale e traspirante ma più costoso. La scelta dipende da budget, requisiti antincendio e comportamento estivo desiderato.</p></div></details>
+          <details class="faq-item"><summary>L&#x27;isolamento dall&#x27;interno è rischioso?</summary><div class="faq-a"><p>Comporta un rischio di condensa interstiziale se la stratigrafia non viene verificata: isolando dall&#x27;interno si abbassa la temperatura della muratura esistente. Serve una verifica igrometrica e, quasi sempre, una barriera o un freno al vapore correttamente posato.</p></div></details>
+          <details class="faq-item"><summary>Il BIM è obbligatorio anche per i lavori privati?</summary><div class="faq-a"><p>L&#x27;obbligo riguarda gli appalti pubblici sopra determinate soglie di importo. Nel privato non è imposto per legge, ma viene sempre più richiesto da committenti strutturati e per opere complesse.</p></div></details>
+        </div>
+      </section>
+
     </header>
     <section class="section" aria-label="Articoli della categoria">
       <div class="card-grid">
@@ -149,7 +259,7 @@
   <footer class="site-footer"><div class="container">
     <div class="footer-grid">
       <div>
-        <a class="f-logo" href="../index.html"><img src="../assets/logo.png" alt="Il Giornale Edile" width="240" height="23" loading="lazy"></a>
+        <a class="f-logo" href="../index.html"><img src="../assets/logo.webp" alt="Il Giornale Edile" width="240" height="23" loading="lazy"></a>
         <p class="f-desc">Il Giornale Edile è la testata online dedicata al mondo delle costruzioni: bonus fiscali, norme tecniche, materiali, tecnologie di cantiere e mercato immobiliare.</p>
       </div>
       <nav aria-label="Sezioni del sito"><h4>Sezioni</h4><ul>
