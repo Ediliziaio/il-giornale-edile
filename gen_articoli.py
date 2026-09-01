@@ -242,7 +242,7 @@ def render(a):
   <!-- Topbar -->
   <div class="topbar">
     <div class="container">
-      <span class="tb-date" data-tb-date>{a["tb_date"]}</span>
+      <span class="tb-date" data-tb-date></span>
       <nav class="tb-links" aria-label="Link utili">
         <a href="../chi-siamo.html">Chi siamo</a>
         <a href="../contatti.html">Contatti</a>
