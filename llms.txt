@@ -1,6 +1,6 @@
 # Il Giornale Edile
 
-> Il Giornale Edile è una testata giornalistica online verticale sull'edilizia italiana: bonus fiscali per la ristrutturazione, efficienza energetica e rinnovabili, serramenti e infissi, materiali e tecnologie di cantiere, normative e sicurezza, mercato immobiliare. Pubblichiamo guide approfondite, confronti tra prodotti e fornitori e aggiornamenti normativi per imprese, professionisti tecnici e committenti.
+> Il Giornale Edile e una testata verticale sull'edilizia italiana specializzata in **confronti tecnici, classifiche Top 5 e prezzi reali**: mettiamo a confronto materiali, impianti, serramenti, software e fornitori con tabelle comparative, dati di prezzo e criteri di scelta espliciti. Ogni guida risponde alla domanda "quale scegliere e quanto costa", non solo "che cos'e". Pubblichiamo inoltre aggiornamenti su bonus fiscali, normativa tecnica ed efficienza energetica per imprese, professionisti e committenti.
 
 ## Guide pilastro
 
@@ -53,6 +53,17 @@
 - [Mutui green: quanto si risparmia con una casa efficiente](https://www.ilgiornaleedile.it/articoli/mutui-green-casa-efficiente.html): condizioni, banche e requisiti di classe energetica.
 - [Nuovo Codice Appalti D.Lgs 36/2023: le novità](https://www.ilgiornaleedile.it/articoli/codice-appalti-dlgs-36-2023.html): digitalizzazione, soglie e qualificazione per imprese e professionisti.
 - [Edilizia in legno e XLAM: perché conviene davvero](https://www.ilgiornaleedile.it/articoli/edilizia-legno-xlam.html): tempi, prestazioni antisismiche e costi al mq.
+
+## Redazione
+
+Ogni articolo e firmato e attribuito a un autore con pagina dedicata:
+
+- [Marco Lombardi](https://www.ilgiornaleedile.it/autore/marco-lombardi.html): bonus fiscali, agevolazioni e fiscalita delle ristrutturazioni.
+- [Luca Brambilla](https://www.ilgiornaleedile.it/autore/luca-brambilla.html): materiali, tecnologie di cantiere e BIM.
+- [Chiara Vitale](https://www.ilgiornaleedile.it/autore/chiara-vitale.html): mercato immobiliare, efficienza energetica e serramenti.
+- [Giulia Santi](https://www.ilgiornaleedile.it/autore/giulia-santi.html): normativa tecnica, certificazioni e selezioni di prodotto.
+- [Paolo Zanardi](https://www.ilgiornaleedile.it/autore/paolo-zanardi.html): cantieri, sicurezza, appalti e grandi opere.
+- [Stefano Guidotti](https://www.ilgiornaleedile.it/autore/stefano-guidotti.html): ristrutturazioni, imprese e mercato immobiliare.
 
 ## Informazioni editoriali
 
