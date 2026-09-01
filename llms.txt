@@ -1,9 +1,10 @@
 # Il Giornale Edile
 
-> Il Giornale Edile e' il sito italiano dedicato all'**efficienza energetica e alla casa green**:
-> fotovoltaico e accumulo, pompe di calore, cappotto termico, comunita' energetiche rinnovabili,
-> certificazione APE, Conto Termico e Direttiva Case Green. Guide operative con costi reali,
-> requisiti tecnici e criteri di scelta, pensate per chi deve riqualificare un edificio.
+> Il Giornale Edile mette a confronto prodotti, soluzioni e fornitori per l'edilizia.
+> I comparatori affiancano su una stessa tabella pannelli fotovoltaici, batterie di
+> accumulo, pompe di calore, serramenti, software BIM e imprese di costruzioni,
+> con specifiche tecniche, prestazioni, prezzi indicativi e criteri di valutazione
+> dichiarati, cosi' da rendere la scelta verificabile invece che opinabile.
 
 Lingua: italiano (it-IT). Editore: Domus Group S.r.l.
 
