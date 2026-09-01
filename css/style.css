@@ -323,3 +323,22 @@ h1, h2, h3, h4 { font-family: var(--font-head); font-weight: 800; line-height: 1
 /* Pagine autore: elenco articoli */
 .au-desc { display: block; margin-top: 4px; font-size: 14.5px; color: #666; line-height: 1.5; }
 .rl-list .rl-item { margin-bottom: 14px; }
+
+/* ---------- Slot pubblicitari con creatività reale ---------- */
+.ad-slot.has-ad {
+  background: none; border: 0; padding: 0;
+  min-height: 0; align-items: stretch; text-align: left;
+}
+.ad-slot.has-ad .ad-tag {
+  display: block; color: #a5a29c; margin-bottom: 6px; text-align: center;
+}
+.ad-slot.has-ad .ad-link { display: block; width: 100%; line-height: 0; }
+.ad-slot.has-ad .ad-link img {
+  width: 100%; height: auto; display: block; border-radius: var(--radius);
+}
+.ad-slot.has-ad.ad-inarticle { width: 320px; }
+@media (max-width: 900px) {
+  .ad-slot.has-ad.ad-inarticle { width: 100%; }
+  .ad-slot.has-ad.ad-halfpage,
+  .ad-slot.has-ad.ad-rect { width: min(360px, 100%); }
+}
