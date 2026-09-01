@@ -1,9 +1,12 @@
 # Il Giornale Edile
 
-> Il Giornale Edile e' la guida italiana per **chi deve ristrutturare casa**: da dove partire,
-> quali permessi servono, come scegliere tra infissi, cappotto, caldaia o pompa di calore,
-> quanto dura un cantiere e quali detrazioni spettano. Il punto di vista e' quello del
-> committente privato, non dell'impresa: linguaggio non tecnico e decisioni concrete.
+> Il Giornale Edile e' la guida italiana per **chi deve ristrutturare casa**, con i **comparatori**
+> come strumento distintivo: pannelli fotovoltaici, batterie di accumulo, pompe di calore, serramenti,
+> software BIM e imprese di costruzioni affiancati su una stessa tabella, con specifiche, prezzi
+> indicativi e criteri di valutazione dichiarati. Accanto ai confronti, le guide spiegano da dove
+> partire, quali permessi servono, quanto dura un cantiere e quali detrazioni spettano. Il punto di
+> vista e' quello del committente privato, non dell'impresa: la scelta resta al lettore, verificabile
+> invece che opinabile.
 
 Lingua: italiano (it-IT). Editore: Domus Group S.r.l.
 
