@@ -135,6 +135,35 @@
   ]
 }
   </script>
+<style>
+.calc-card{border:1px solid #dfe4ea;border-radius:10px;padding:20px 22px;margin:26px 0;background:#fafbfc}
+.calc-card h2{margin-top:0}
+.calc-card select{width:100%;max-width:420px;padding:11px;border:1px solid #ccd3da;border-radius:8px;font-size:16px;font-family:inherit;background:#fff}
+.cmp-table{width:100%;border-collapse:collapse;margin:18px 0 6px;font-size:15px}
+.cmp-table th,.cmp-table td{border-bottom:1px solid #e6eaee;padding:9px 8px;text-align:left}
+.cmp-table td{text-align:right;font-variant-numeric:tabular-nums}
+.cmp-table tr.cmp-best{background:#eef8f0}
+.cmp-note{font-size:14px;color:#5a6672;margin:10px 0 0}
+@media(max-width:640px){.calc-card{padding:15px}.cmp-table{font-size:14px}}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    { "@type": "WebApplication", "@id": "https://www.ilgiornaleedile.it/comparatore/riscaldamento.html#app",
+      "name": "Comparatore costi riscaldamento: caldaia, ibrido, pompa di calore",
+      "url": "https://www.ilgiornaleedile.it/comparatore/riscaldamento.html", "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "Qualsiasi browser web", "inLanguage": "it-IT",
+      "browserRequirements": "Richiede JavaScript",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" } },
+    { "@type": "FAQPage", "mainEntity": [
+      { "@type": "Question", "name": "Conviene la pompa di calore al posto della caldaia?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Dipende dall isolamento. Su una casa ben isolata con mandata a 40 gradi la pompa di calore spende circa 675 euro l anno contro i 1.000 della caldaia. Su una casa poco isolata con mandata a 65 gradi il COP crolla e la spesa eguaglia o supera quella della caldaia: conviene prima intervenire sull involucro o scegliere il sistema ibrido." } },
+      { "@type": "Question", "name": "Quanto costa installare una pompa di calore rispetto a una caldaia?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Una caldaia a condensazione costa 1.800-3.200 euro installata, un sistema ibrido 6.000-10.000 euro, una pompa di calore 7.000-13.000 euro. Il maggior costo iniziale rientra con il minor consumo, in tempi che dipendono dall isolamento dell edificio." } } ] }
+  ]
+}
+</script>
 </head>
 <body>
   <a class="skip-link" href="#contenuto">Salta al contenuto</a>
@@ -216,6 +245,20 @@
         <p class="cmp-empty" data-cmp-empty hidden>Nessun risultato per la ricerca. <button type="button" class="cmp-reset" data-cmp-reset>Azzera i filtri</button></p>
       </div>
       <p class="cmp-note"><strong>Nota metodologica.</strong> I dati derivano dalla scheda redazionale <a href="../articoli/caldaia-condensazione-o-pompa-di-calore.html">Sistemi di riscaldamento: l'analisi completa</a>. I valori sono indicativi e variano per marca, spessore, zona climatica, installatore e detrazioni applicabili.</p>
+      
+      <section class="calc-card" id="calcolatore" aria-labelledby="calc-h">
+        <h2 id="calc-h">Calcola la tua situazione</h2>
+        <p>Le tre soluzioni a confronto sui numeri della <em>tua</em> casa: la spesa annua dipende quasi tutto dall'isolamento, perché determina la temperatura di mandata.</p>
+        <p><label for="cmp-isolamento">Com'è isolata la casa</label><br>
+        <select id="cmp-isolamento">
+          <option value="media">Isolamento medio — radiatori, mandata ~50 °C</option>
+          <option value="isolata">Ben isolata — pavimento radiante, mandata ~40 °C</option>
+          <option value="scarsa">Poco isolata — radiatori vecchi, mandata ~65 °C</option>
+        </select></p>
+        <p><label><input type="checkbox" id="cmp-fv"> Ho (o installerò) il fotovoltaico</label></p>
+        <div id="cmp-out" aria-live="polite"></div>
+      </section>
+
       <h2 id="domande">Domande frequenti</h2>
       <div class="faq">
           <details class="faq-item"><summary>Quali sistemi di riscaldamento sono messi a confronto?</summary><div class="faq-a"><p>Il comparatore mette a confronto 3 soluzioni: Caldaia condensazione, Sistema ibrido, Pompa di calore.</p></div></details>
@@ -273,5 +316,6 @@
   <script src="../js/main.js" defer></script>
   <script src="../js/comparatore.js" defer></script>
   <script src="../js/cookie-consent.js" defer></script>
+  <script src="../js/comparatore-riscaldamento.js" defer></script>
 </body>
 </html>
