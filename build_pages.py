@@ -138,6 +138,7 @@ FOOTER = """  <footer class="site-footer"><div class="container">
     </div>
   </div></footer>
   <script src="../js/main.js" defer></script>
+  <script src="../eic-lead.js" data-form-id="94427570-bfd2-4d37-8f8e-1fa601684813" defer></script>
 </body>
 </html>"""
 

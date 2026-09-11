@@ -45,8 +45,9 @@ Regole redazionali:
 - Obiettivi consigliati: lettura completa articolo (scroll 75%), click sui link uscita "Top 5", iscrizione newsletter.
 
 ## 6. Newsletter
-- I form attualmente hanno `action="#"`: collegare un backend reale (Brevo — piano gratuito fino a 300 email/giorno — Mailchimp o MailerLite).
-- Sostituire `action="#"` con l'endpoint del provider e aggiungere il double opt-in (obbligatorio per GDPR).
+- I form newsletter sono collegati al CRM di Edilizia in Cloud tramite `eic-lead.js` (nella root): ogni `<form data-eic="newsletter">` viene inviato al CRM insieme ai parametri della campagna (UTM, gclid, fbclid). `action="#"` resta solo come ripiego senza JavaScript.
+- `eic-lead.js` va incluso su **ogni** pagina, subito dopo `js/main.js` e con lo stesso prefisso di percorso (`eic-lead.js`, `../eic-lead.js`): salva la campagna all'atterraggio anche sulle pagine senza form. I generatori (`gen_articoli.py`, `build_pages.py`, `build_stub_pages.py`) lo includono già.
+- Da fare: double opt-in (obbligatorio per GDPR) gestito dal CRM.
 
 ## 7. Conformità legale (obbligatoria per una testata)
 - [ ] **Registrazione della testata** presso il Tribunale competente (art. 5 L. 47/1948) con nomina del direttore responsabile — attualmente il sito indica "da definirsi" nelle Note legali.
