@@ -32,6 +32,7 @@ Lingua: italiano (it-IT). Editore: Domus Group S.r.l.
 
 ## Ultimi articoli
 
+- [Fotovoltaico che non produce: di chi è la colpa](https://www.ilgiornaleedile.it/articoli/fotovoltaico-non-produce-responsabilita.html): Quando il fotovoltaico non produce: responsabilità di installatore, progettista e fornitore, garanzie di rendimento e difetti di progetto.
 - [Vendere fotovoltaico alle aziende: chi decide davvero](https://www.ilgiornaleedile.it/articoli/vendere-fotovoltaico-aziende-chi-decide.html): Fotovoltaico industriale e CER: energy manager, CFO o titolare? Chi decide l’acquisto in azienda e con quali canali lo si raggiunge davvero.
 - [Le 5 migliori batterie di accumulo per fotovoltaico del 2026](https://www.ilgiornaleedile.it/articoli/top-5-batterie-accumulo-2026.html): Tesla, BYD, Huawei, Pylontech e Sonnen a confronto su capacità, cicli, garanzia e prezzi.
 - [Comunità energetica in condominio: il caso studio](https://www.ilgiornaleedile.it/articoli/cer-condominio-caso-studio.html): costituzione, incentivo, riparto tra condomini e numeri reali.
