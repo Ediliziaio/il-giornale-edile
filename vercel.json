@@ -2,8 +2,18 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/guide-pratiche/batteria-fotovoltaico-dimensionamento-consumi-serali/",
+      "destination": "/articoli/batteria-fotovoltaico-dimensionamento-consumi-serali.html",
+      "permanent": true
+    },
+    {
       "source": "/guide-pratiche/batteria-fotovoltaico-dimensionamento-consumi-serali",
       "destination": "/articoli/batteria-fotovoltaico-dimensionamento-consumi-serali.html",
+      "permanent": true
+    },
+    {
+      "source": "/speciali-aziende/fotovoltaico-con-renova-solution-il-profilo-duso-prima-della-taglia/",
+      "destination": "/articoli/fotovoltaico-con-renova-solution-il-profilo-duso-prima-della-taglia.html",
       "permanent": true
     },
     {
@@ -12,8 +22,18 @@
       "permanent": true
     },
     {
+      "source": "/speciali-aziende/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza/",
+      "destination": "/articoli/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza.html",
+      "permanent": true
+    },
+    {
       "source": "/speciali-aziende/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza",
       "destination": "/articoli/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza.html",
+      "permanent": true
+    },
+    {
+      "source": "/speciali-aziende/green-energy-group-il-progetto-fotovoltaico-incontra-gli-orari-dellimpresa/",
+      "destination": "/articoli/green-energy-group-il-progetto-fotovoltaico-incontra-gli-orari-dellimpresa.html",
       "permanent": true
     },
     {
@@ -22,7 +42,17 @@
       "permanent": true
     },
     {
+      "source": "/guide-pratiche/",
+      "destination": "/categoria/energia-rinnovabili.html",
+      "permanent": true
+    },
+    {
       "source": "/guide-pratiche",
+      "destination": "/categoria/energia-rinnovabili.html",
+      "permanent": true
+    },
+    {
+      "source": "/speciali-aziende/",
       "destination": "/categoria/energia-rinnovabili.html",
       "permanent": true
     },
