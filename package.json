@@ -6,7 +6,7 @@
   "description": "Il Giornale Edile - Testata giornalistica online dedicata a edilizia, costruzioni, bonus fiscali e innovazione in cantiere",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/build-static.mjs",
     "preview": "vite preview"
   },
   "devDependencies": {
