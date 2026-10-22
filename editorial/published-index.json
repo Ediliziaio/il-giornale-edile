@@ -2,8 +2,8 @@
   {
     "title": "Batteria fotovoltaica: quanti kWh servono davvero a casa?",
     "description": "Come valutare la taglia dell’accumulo con consumi serali, surplus e capacità utile. Un esempio di calcolo, senza promesse di autonomia totale.",
-    "path": "/guide-pratiche/batteria-fotovoltaico-dimensionamento-consumi-serali/",
-    "section": "guide-pratiche",
+    "path": "/articoli/batteria-fotovoltaico-dimensionamento-consumi-serali.html",
+    "section": "native",
     "slug": "batteria-fotovoltaico-dimensionamento-consumi-serali",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/batteria-fotovoltaico-dimensionamento-consumi-serali.webp",
@@ -11,13 +11,15 @@
     "sourceURLs": [
       "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/435/553/GSE_Contributo.pdf",
       "https://www.gse.it/documenti_site/Documenti%20GSE/Servizi%20per%20te/SISTEMI%20DI%20ACCUMULO/regole%20e%20procedure/REGOLE%20TECNICHE%20SISTEMI%20ACCUMULO.PDF"
-    ]
+    ],
+    "previousPath": "/guide-pratiche/batteria-fotovoltaico-dimensionamento-consumi-serali/",
+    "category": "energia-rinnovabili"
   },
   {
     "title": "Fotovoltaico con Renova Solution: il profilo d’uso prima della taglia",
     "description": "Consumi, orari e nuovi apparecchi: una richiesta utile per approfondire il fotovoltaico domestico proposto da Renova Solution.",
-    "path": "/speciali-aziende/fotovoltaico-con-renova-solution-il-profilo-duso-prima-della-taglia/",
-    "section": "speciali-aziende",
+    "path": "/articoli/fotovoltaico-con-renova-solution-il-profilo-duso-prima-della-taglia.html",
+    "section": "native",
     "slug": "fotovoltaico-con-renova-solution-il-profilo-duso-prima-della-taglia",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/renova-solution.webp",
@@ -25,13 +27,15 @@
     "sourceURLs": [
       "https://www.renovasolution.it/",
       "https://www.renovasolution.it/fotovoltaico-privati"
-    ]
+    ],
+    "previousPath": "/speciali-aziende/fotovoltaico-con-renova-solution-il-profilo-duso-prima-della-taglia/",
+    "category": "energia-rinnovabili"
   },
   {
     "title": "Innovasol: preparare la climatizzazione pensando a ogni stanza",
     "description": "Ambienti, arredi e orari: come impostare un confronto sulla climatizzazione in Sicilia attraverso il servizio presentato da Innovasol.",
-    "path": "/speciali-aziende/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza/",
-    "section": "speciali-aziende",
+    "path": "/articoli/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza.html",
+    "section": "native",
     "slug": "innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/innovasol.webp",
@@ -39,13 +43,15 @@
     "sourceURLs": [
       "https://innovasol.it/",
       "https://innovasol.it/impianti-climatizzazione-sicilia/"
-    ]
+    ],
+    "previousPath": "/speciali-aziende/innovasol-preparare-la-climatizzazione-pensando-a-ogni-stanza/",
+    "category": "energia-rinnovabili"
   },
   {
     "title": "Green Energy Group: il progetto fotovoltaico incontra gli orari dell’impresa",
     "description": "Turni, utilizzi dell’immobile e dati disponibili: come preparare una prima valutazione fotovoltaica per l’attività con Green Energy Group.",
-    "path": "/speciali-aziende/green-energy-group-il-progetto-fotovoltaico-incontra-gli-orari-dellimpresa/",
-    "section": "speciali-aziende",
+    "path": "/articoli/green-energy-group-il-progetto-fotovoltaico-incontra-gli-orari-dellimpresa.html",
+    "section": "native",
     "slug": "green-energy-group-il-progetto-fotovoltaico-incontra-gli-orari-dellimpresa",
     "publishedAt": "2026-10-22T07:18:01Z",
     "image": "/editorial-assets/green-energy-group.webp",
@@ -53,6 +59,8 @@
     "sourceURLs": [
       "https://greenenergygroup.it/",
       "https://greenenergygroup.it/fotovoltaico/"
-    ]
+    ],
+    "previousPath": "/speciali-aziende/green-energy-group-il-progetto-fotovoltaico-incontra-gli-orari-dellimpresa/",
+    "category": "energia-rinnovabili"
   }
 ]

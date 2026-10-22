@@ -1,4 +1,4 @@
-import { cpSync, existsSync, mkdirSync, readdirSync, rmSync } from 'node:fs';
+import { cpSync, existsSync, mkdirSync, readdirSync, rmSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -22,3 +22,11 @@ for (const required of ['index.html', '404.html', 'robots.txt', 'sitemap.xml', '
 }
 const pages = readdirSync(out, { recursive: true }).filter(file => file.endsWith('.html'));
 console.log(`Static build: ${pages.length} complete HTML pages in dist/`);
+
+// Search uses the same published native article files, never development drafts.
+const search = readdirSync(join(out, 'articoli')).filter(f => f.endsWith('.html')).map(file => {
+  const html = readFileSync(join(out, 'articoli', file), 'utf8');
+  const text = value => value.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+  return { url: '/articoli/' + file, title: text(html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1] || ''), description: text(html.match(/<meta[^>]*name="description"[^>]*content="([^"]*)"/i)?.[1] || '') };
+});
+writeFileSync(join(out, 'assets', 'search-index.json'), JSON.stringify(search));
