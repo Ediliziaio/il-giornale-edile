@@ -21,6 +21,13 @@ for (const required of ['index.html', '404.html', 'robots.txt', 'sitemap.xml', '
   if (!existsSync(join(out, required))) throw new Error(`Missing public output: ${required}`);
 }
 const pages = readdirSync(out, { recursive: true }).filter(file => file.endsWith('.html'));
+// Link directly to the comparator hub canonical rather than its index.html alias.
+for (const file of pages) {
+  const target = join(out, file);
+  const html = readFileSync(target, 'utf8');
+  const normalized = html.replace(/(href=["'][^"']*comparatore\/)index\.html(?=["'#?])/g, '$1');
+  if (normalized !== html) writeFileSync(target, normalized);
+}
 console.log(`Static build: ${pages.length} complete HTML pages in dist/`);
 
 // Search uses the same published native article files, never development drafts.
