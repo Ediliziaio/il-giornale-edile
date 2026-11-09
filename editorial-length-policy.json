@@ -3,6 +3,7 @@
   "enforcePublishedOnOrAfter": "2026-11-07",
   "requiredSlugs": [
     "pompe-calore-confrontare-scop-mandata",
-    "fotovoltaico-kw-kwh-confrontare-offerte"
+    "fotovoltaico-kw-kwh-confrontare-offerte",
+    "vetri-basso-emissivi-selettivi-guida"
   ]
 }
