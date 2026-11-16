@@ -1,0 +1,21 @@
+{
+  "title": "Impianti della casa: confronti a condizioni dichiarate",
+  "intro": "Potenza, rendimento ed energia rispondono a domande diverse. Confronta le configurazioni offerte e le condizioni cui si riferiscono i dati prima di scegliere con il tecnico il sistema adatto all’edificio.",
+  "links": [
+    {
+      "href": "/articoli/pompe-calore-confrontare-scop-mandata.html",
+      "title": "Confrontare le pompe di calore",
+      "description": "Leggi SCOP, clima e temperatura di mandata nelle condizioni dichiarate."
+    },
+    {
+      "href": "/articoli/fotovoltaico-kw-kwh-confrontare-offerte.html",
+      "title": "Distinguere kW e kWh nel fotovoltaico",
+      "description": "Separa potenza, energia e ipotesi di produzione nelle offerte."
+    },
+    {
+      "href": "/articoli/top-5-pompe-di-calore.html",
+      "title": "Approfondire i sistemi trattati",
+      "description": "Usa la panoramica dei modelli come base per le verifiche della configurazione proposta."
+    }
+  ]
+}
