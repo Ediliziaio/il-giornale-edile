@@ -1,5 +1,37 @@
 [
   {
+    "title": "Energia Più: fotovoltaico e accumulo per la casa",
+    "description": "Fotovoltaico e accumulo con Energia Più: come collegare il progetto alla casa, agli orari di consumo e alle esigenze della famiglia.",
+    "path": "/articoli/energia-piu-fotovoltaico-accumulo-casa.html",
+    "section": "native",
+    "slug": "energia-piu-fotovoltaico-accumulo-casa",
+    "publishedAt": "2026-11-18",
+    "image": "/editorial-assets/energia-piu-fotovoltaico-accumulo-casa.webp",
+    "sponsor": "Energia Più",
+    "sourceURLs": [
+      "https://www.energiapiu.net/",
+      "https://www.energiapiu.net/contatti-energia/"
+    ],
+    "category": "energia-rinnovabili"
+  },
+  {
+    "title": "TE.DA Infissi: serramenti, porte e soluzioni outdoor a Roma e nel Lazio",
+    "description": "TE.DA Infissi: finestre, porte, oscuranti e outdoor a Roma e nel Lazio. Servizi e showroom di Palombara Sabina.",
+    "path": "/articoli/teda-infissi-serramenti-outdoor-roma.html",
+    "section": "native",
+    "slug": "teda-infissi-serramenti-outdoor-roma",
+    "publishedAt": "2026-11-18",
+    "image": "/editorial-assets/teda-infissi-serramenti-outdoor-roma.webp",
+    "sponsor": "TE.DA Infissi",
+    "sourceURLs": [
+      "https://www.tedainfissi.com/",
+      "https://www.tedainfissi.com/outdoor",
+      "https://www.tedainfissi.com/infissi",
+      "https://www.tedainfissi.com/contatti"
+    ],
+    "category": "serramenti-infissi"
+  },
+  {
     "title": "Pompa di calore e rumore: scegliere dove mettere l’unità esterna",
     "description": "Come preparare il sopralluogo per l’unità esterna della pompa di calore: dati acustici, finestre, aria, supporti e accesso alla manutenzione.",
     "path": "/articoli/pompa-calore-unita-esterna-rumore-posizionamento.html",
