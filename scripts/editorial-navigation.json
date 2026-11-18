@@ -1,0 +1,288 @@
+{
+  "kind": "giornale",
+  "name": "Il Giornale Edile",
+  "origin": "https://www.ilgiornaleedile.it",
+  "archive": "/sitemap.html",
+  "hubs": [
+    {
+      "path": "/categoria/bonus-fiscali.html",
+      "intro": "Collega la lettura delle agevolazioni al lavoro che stai valutando. Le guide aiutano a separare il quadro generale dai punti da verificare per il singolo intervento, senza partire dal solo nome del bonus.",
+      "archiveDescription": "Incentivi, detrazioni e collegamenti ai diversi interventi.",
+      "routes": [
+        {
+          "title": "Partire dal tipo di intervento",
+          "description": "Scegli il riferimento pertinente e prepara i documenti del caso prima del confronto economico.",
+          "links": [
+            "/articoli/bonus-ristrutturazione-2026-guida-completa.html",
+            "/articoli/ecobonus-65-guida.html",
+            "/articoli/conto-termico-3-guida.html"
+          ]
+        },
+        {
+          "title": "Approfondire spese e casi differenti",
+          "description": "Affianca al quadro generale la guida specifica quando cambiano il tipo di spesa o il percorso dell’intervento.",
+          "links": [
+            "/articoli/detrazioni-ristrutturazione-50-36.html",
+            "/articoli/superbonus-2026-cosa-resta.html",
+            "/articoli/bonus-mobili-2026-guida.html"
+          ]
+        }
+      ],
+      "aliases": [
+        "Bonus & Fisco"
+      ]
+    },
+    {
+      "path": "/categoria/energia-rinnovabili.html",
+      "intro": "Il confronto delle offerte richiede dati leggibili su edificio, consumi e configurazione proposta. Scegli il percorso in base al punto da chiarire: potenza e produzione, accumulo oppure riscaldamento.",
+      "archiveDescription": "Fotovoltaico, accumulo, pompe di calore e comunità energetiche.",
+      "routes": [
+        {
+          "title": "Preparare il confronto delle offerte",
+          "description": "Parti dal quadro dell’impianto, poi distingui le grandezze e le voci che trovi nelle proposte.",
+          "links": [
+            "/articoli/pannelli-solari-fotovoltaico-guida.html",
+            "/articoli/fotovoltaico-costi-permessi-2026.html",
+            "/articoli/fotovoltaico-kw-kwh-confrontare-offerte.html"
+          ]
+        },
+        {
+          "title": "Approfondire moduli e accumulo",
+          "description": "Usa queste guide per capire quali elementi confrontare nella configurazione proposta.",
+          "links": [
+            "/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html",
+            "/articoli/accumulo-fotovoltaico-batterie-guida.html",
+            "/articoli/top-5-batterie-accumulo-2026.html"
+          ]
+        },
+        {
+          "title": "Collegare impianto e utilizzo",
+          "description": "Per il riscaldamento e l’uso condiviso dell’energia, passa alle domande del progetto specifico.",
+          "links": [
+            "/articoli/pompe-calore-confrontare-scop-mandata.html",
+            "/articoli/riscaldamento-a-pavimento-pro-contro.html",
+            "/articoli/comunita-energetiche-cer-guida.html",
+            "/articoli/cer-condominio-caso-studio.html"
+          ]
+        }
+      ],
+      "aliases": [
+        "Energia & Rinnovabili",
+        "Energia e Rinnovabili",
+        "energia-rinnovabili"
+      ]
+    },
+    {
+      "path": "/categoria/normative-cantieri.html",
+      "intro": "Le guide della sezione affrontano progetto, cantiere e documenti con domande diverse. Parti dalla fase in cui ti trovi e approfondisci il tema con chi segue il lavoro, evitando di usare un quadro generale come risposta automatica al singolo caso.",
+      "archiveDescription": "Strutture, sicurezza, appalti e documenti dell’edificio.",
+      "routes": [
+        {
+          "title": "Preparare il progetto tecnico",
+          "description": "Per le questioni relative a strutture, incendio ed edificio, scegli il riferimento pertinente.",
+          "links": [
+            "/articoli/ntc-aggiornamenti-sismici.html",
+            "/articoli/normativa-antincendio-edilizia-2026.html",
+            "/articoli/certificazione-ape-regole-2026.html"
+          ]
+        },
+        {
+          "title": "Organizzare il cantiere",
+          "description": "Collega il quadro sulla sicurezza ai temi delle lavorazioni e della stima delle voci.",
+          "links": [
+            "/articoli/sicurezza-cantiere-dlgs-81-novita.html",
+            "/articoli/ponteggi-norme-sicurezza.html",
+            "/articoli/prezzario-regionale-lavori-edili-guida.html"
+          ]
+        },
+        {
+          "title": "Orientarsi tra appalti e riqualificazione",
+          "description": "Le letture seguenti inquadrano percorsi e programmi differenti da approfondire secondo il progetto.",
+          "links": [
+            "/articoli/codice-appalti-dlgs-36-2023.html",
+            "/articoli/direttiva-case-green-cosa-cambia.html",
+            "/articoli/edilizia-scolastica-pnrr-cantieri.html"
+          ]
+        }
+      ],
+      "aliases": [
+        "Normative & Cantieri"
+      ]
+    },
+    {
+      "path": "/categoria/materiali-tecnologie.html",
+      "intro": "Per confrontare materiali e strumenti, separa l’elemento dell’edificio dal processo di lavoro. Questi percorsi collegano le guide sui componenti alle letture sulla progettazione e sulle tecnologie impiegate.",
+      "archiveDescription": "Materiali dell’involucro, costruzione e strumenti digitali.",
+      "routes": [
+        {
+          "title": "Confrontare i materiali del progetto",
+          "description": "Parti dall’elemento interessato e prepara un confronto delle soluzioni disponibili.",
+          "links": [
+            "/articoli/cappotto-termico-materiali-confronto.html",
+            "/articoli/isolamento-interno-pareti-guida.html",
+            "/articoli/edilizia-legno-xlam.html",
+            "/articoli/cemento-sostenibile-materiali.html"
+          ]
+        },
+        {
+          "title": "Leggere processo e strumenti insieme",
+          "description": "Per le tecnologie digitali e costruttive, collega il quadro generale alla guida dedicata.",
+          "links": [
+            "/articoli/bim-obbligatorio-scadenze.html",
+            "/articoli/top-5-software-bim.html",
+            "/articoli/domotica-smart-home-ristrutturazione.html",
+            "/articoli/stampa-3d-edilizia.html"
+          ]
+        }
+      ],
+      "aliases": [
+        "Materiali & Tecnologie"
+      ]
+    },
+    {
+      "path": "/categoria/mercato-immobiliare.html",
+      "intro": "Un confronto immobiliare richiede sia il contesto dell’operazione sia il quadro dei lavori. Le guide seguenti distinguono la preparazione del budget dalla lettura del mercato e dei diversi percorsi di trasformazione.",
+      "archiveDescription": "Mercato immobiliare, ristrutturazioni, costi e trasformazione degli edifici.",
+      "routes": [
+        {
+          "title": "Preparare il quadro dei lavori",
+          "description": "Affianca il confronto dei costi alla descrizione dell’intervento e delle attività comprese.",
+          "links": [
+            "/articoli/costo-ristrutturazione-al-mq-2026.html",
+            "/articoli/ristrutturazione-chiavi-in-mano.html",
+            "/articoli/costruire-casa-prefabbricata-costi.html"
+          ]
+        },
+        {
+          "title": "Leggere il contesto dell’operazione",
+          "description": "Approfondisci le informazioni di mercato e gli aspetti che riguardano l’immobile o l’operatore.",
+          "links": [
+            "/articoli/mercato-immobiliare-2026-prezzi.html",
+            "/articoli/mutui-green-casa-efficiente.html",
+            "/articoli/rigenerazione-urbana-progetti-2026.html",
+            "/articoli/top-5-imprese-costruzione-italia.html"
+          ]
+        }
+      ],
+      "aliases": [
+        "Mercato & Immobiliare"
+      ]
+    },
+    {
+      "path": "/categoria/serramenti-infissi.html",
+      "intro": "La scelta del serramento, il suo uso negli ambienti e l’organizzazione della posa richiedono verifiche diverse. Parti dalle aperture della casa e passa al percorso che completa il confronto che stai facendo.",
+      "archiveDescription": "Materiali, vetri, aperture, posa e interventi in condominio.",
+      "routes": [
+        {
+          "title": "Definire la finestra e la configurazione",
+          "description": "Confronta i materiali, i dati del vetro e il movimento delle ante rispetto all’uso dei locali.",
+          "links": [
+            "/articoli/infissi-pvc-alluminio-legno-confronto.html",
+            "/articoli/vetri-basso-emissivi-selettivi-guida.html",
+            "/articoli/apertura-finestre-ingombri-arredi-disegni.html"
+          ]
+        },
+        {
+          "title": "Preparare l’intervento e scegliere il referente",
+          "description": "Collega le informazioni del prodotto alle domande sulla posa e, quando pertinente, al quadro del condominio.",
+          "links": [
+            "/articoli/posa-in-opera-infissi-guida.html",
+            "/articoli/sostituzione-infissi-condominio-iter.html",
+            "/articoli/top-5-produttori-serramenti.html"
+          ]
+        }
+      ],
+      "aliases": [
+        "Serramenti & Infissi",
+        "Serramenti e Infissi"
+      ]
+    }
+  ],
+  "contexts": [
+    {
+      "path": "/articoli/pompe-calore-confrontare-scop-mandata.html",
+      "parts": [
+        "Per collegare i dati della macchina al sistema della casa, affianca il confronto alla guida ",
+        {
+          "path": "/articoli/riscaldamento-a-pavimento-pro-contro.html",
+          "label": "sul riscaldamento a pavimento"
+        },
+        " e al percorso ",
+        {
+          "path": "/articoli/caldaia-condensazione-o-pompa-di-calore.html",
+          "label": "di confronto fra caldaia e pompa di calore"
+        },
+        ". Sono letture complementari alla scheda di confronto, non sostituti della valutazione dell’impianto."
+      ]
+    },
+    {
+      "path": "/articoli/ntc-aggiornamenti-sismici.html",
+      "parts": [
+        "Per passare dal quadro del progetto all’organizzazione delle lavorazioni, consulta ",
+        {
+          "path": "/articoli/sicurezza-cantiere-dlgs-81-novita.html",
+          "label": "la guida alla sicurezza in cantiere"
+        },
+        " e ",
+        {
+          "path": "/articoli/ponteggi-norme-sicurezza.html",
+          "label": "l’approfondimento sui ponteggi"
+        },
+        ". Le due guide aiutano a preparare domande su aspetti del cantiere distinti dalle verifiche delle strutture."
+      ]
+    },
+    {
+      "path": "/articoli/pannelli-solari-fotovoltaico-guida.html",
+      "parts": [
+        "Se il confronto delle offerte richiede di approfondire il tipo di modulo, prosegui con ",
+        {
+          "path": "/articoli/pannelli-fotovoltaici-tecnologie-topcon-hjt.html",
+          "label": "il confronto fra tecnologie dei pannelli"
+        },
+        ". Per leggere correttamente potenza e produzione dichiarate, usa anche ",
+        {
+          "path": "/articoli/fotovoltaico-kw-kwh-confrontare-offerte.html",
+          "label": "la guida a kW e kWh nelle offerte fotovoltaiche"
+        },
+        "."
+      ]
+    },
+    {
+      "path": "/articoli/infissi-pvc-alluminio-legno-confronto.html",
+      "parts": [
+        "Se le aperture si trovano in un edificio condominiale, affianca il confronto dei materiali alla guida ",
+        {
+          "path": "/articoli/sostituzione-infissi-condominio-iter.html",
+          "label": "sulla sostituzione degli infissi in condominio"
+        },
+        ". Per verificare l’uso delle ante nei locali, puoi preparare la scheda proposta in ",
+        {
+          "path": "/articoli/apertura-finestre-ingombri-arredi-disegni.html",
+          "label": "Aperture delle finestre: ingombri e arredi"
+        },
+        "."
+      ]
+    },
+    {
+      "path": "/articoli/cemento-sostenibile-materiali.html",
+      "parts": [
+        "Per approfondire un diverso processo di utilizzo dei materiali, leggi ",
+        {
+          "path": "/articoli/stampa-3d-edilizia.html",
+          "label": "la guida alla stampa 3D in edilizia"
+        },
+        ". Se invece devi confrontare materiali per un edificio, affianca la lettura alla guida ",
+        {
+          "path": "/articoli/edilizia-legno-xlam.html",
+          "label": "all’edilizia in legno XLAM"
+        },
+        ", mantenendo distinta la scelta dei componenti dalla valutazione del processo costruttivo."
+      ]
+    }
+  ],
+  "articleHubs": {
+    "/articoli/pompe-calore-confrontare-scop-mandata.html": "/categoria/energia-rinnovabili.html",
+    "/articoli/fotovoltaico-kw-kwh-confrontare-offerte.html": "/categoria/energia-rinnovabili.html",
+    "/articoli/apertura-finestre-ingombri-arredi-disegni.html": "/categoria/serramenti-infissi.html"
+  }
+}

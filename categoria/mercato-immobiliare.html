@@ -25,11 +25,23 @@
   <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="../css/comparatore.css">
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"CollectionPage",
-   "name":"Mercato & Immobiliare — Il Giornale Edile","url":"https://www.ilgiornaleedile.it/categoria/mercato-immobiliare.html",
-   "description":"Prezzi, trend e investimenti: l'analisi del mercato immobiliare italiano e dei costi di costruzione e ristrutturazione.","inLanguage":"it-IT",
-   "isPartOf":{"@type":"WebSite","name":"Il Giornale Edile","url":"https://www.ilgiornaleedile.it/"}}
-  </script>
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Mercato & Immobiliare — Il Giornale Edile",
+  "url": "https://www.ilgiornaleedile.it/categoria/mercato-immobiliare.html",
+  "description": "Prezzi, trend e investimenti: l'analisi del mercato immobiliare italiano e dei costi di costruzione e ristrutturazione.",
+  "inLanguage": "it-IT",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Il Giornale Edile",
+    "url": "https://www.ilgiornaleedile.it/"
+  },
+  "mainEntity": {
+    "@id": "https://www.ilgiornaleedile.it/categoria/mercato-immobiliare.html#articoli"
+  }
+}
+</script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
    {"@type":"ListItem","position":1,"name":"Home","item":"https://www.ilgiornaleedile.it/"},
@@ -72,54 +84,56 @@
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
+  "@id": "https://www.ilgiornaleedile.it/categoria/mercato-immobiliare.html#articoli",
   "name": "Articoli — Mercato & Immobiliare",
+  "itemListOrder": "https://schema.org/ItemListUnordered",
   "numberOfItems": 7,
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
-      "url": "https://www.ilgiornaleedile.it/articoli/costo-ristrutturazione-al-mq-2026.html",
-      "name": "Costo ristrutturazione al mq 2026"
+      "url": "https://www.ilgiornaleedile.it/articoli/costruire-casa-prefabbricata-costi.html",
+      "name": "Costruire una casa prefabbricata: i costi reali nel 2026"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "url": "https://www.ilgiornaleedile.it/articoli/costruire-casa-prefabbricata-costi.html",
-      "name": "Casa Prefabbricata: Costi Reali 2026"
+      "url": "https://www.ilgiornaleedile.it/articoli/top-5-imprese-costruzione-italia.html",
+      "name": "Le 5 maggiori imprese di costruzione in Italia: fatturati e cantieri"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "url": "https://www.ilgiornaleedile.it/articoli/mercato-immobiliare-2026-prezzi.html",
-      "name": "Mercato immobiliare 2026: prezzi e trend"
+      "name": "Mercato immobiliare 2026: prezzi, trend e città dove conviene investire"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "url": "https://www.ilgiornaleedile.it/articoli/mutui-green-casa-efficiente.html",
-      "name": "Mutui green: come funzionano e risparmio"
+      "name": "Mutui green: come funzionano e quanto si risparmia con una casa efficiente"
     },
     {
       "@type": "ListItem",
       "position": 5,
-      "url": "https://www.ilgiornaleedile.it/articoli/rigenerazione-urbana-progetti-2026.html",
-      "name": "Rigenerazione urbana: i progetti 2026"
+      "url": "https://www.ilgiornaleedile.it/articoli/costo-ristrutturazione-al-mq-2026.html",
+      "name": "Quanto costa ristrutturare casa nel 2026: prezzi al mq voce per voce"
     },
     {
       "@type": "ListItem",
       "position": 6,
-      "url": "https://www.ilgiornaleedile.it/articoli/ristrutturazione-chiavi-in-mano.html",
-      "name": "Ristrutturazione Chiavi in Mano: Guida"
+      "url": "https://www.ilgiornaleedile.it/articoli/rigenerazione-urbana-progetti-2026.html",
+      "name": "Rigenerazione urbana: i grandi progetti che trasformano le città italiane"
     },
     {
       "@type": "ListItem",
       "position": 7,
-      "url": "https://www.ilgiornaleedile.it/articoli/top-5-imprese-costruzione-italia.html",
-      "name": "Maggiori imprese edili in Italia: top 5"
+      "url": "https://www.ilgiornaleedile.it/articoli/ristrutturazione-chiavi-in-mano.html",
+      "name": "Ristrutturazione chiavi in mano: come funziona e quanto costa"
     }
   ]
 }
-  </script>
+</script>
 <!-- EIC analytics: local runtime, consent required; Google stays off until verified activation. -->
 <script defer src="/assets/tracking/analytics-config.js?v=800e37e0002e"></script>
 <script defer src="/assets/tracking/analytics-loader.js?v=7ea44b13faf6"></script>
@@ -178,7 +192,17 @@
 
     </header>
     <section class="section" aria-label="Articoli della categoria">
-      <div class="card-grid">
+      <!-- editorial-reading-paths:start -->
+<section class="cat-guide article-body" aria-labelledby="percorso-lettura">
+<h2 id="percorso-lettura">Da dove iniziare</h2>
+<p>Un confronto immobiliare richiede sia il contesto dell’operazione sia il quadro dei lavori. Le guide seguenti distinguono la preparazione del budget dalla lettura del mercato e dei diversi percorsi di trasformazione.</p>
+<h3>Preparare il quadro dei lavori</h3>
+<p>Affianca il confronto dei costi alla descrizione dell’intervento e delle attività comprese. <a href="/articoli/costo-ristrutturazione-al-mq-2026.html">Quanto costa ristrutturare casa nel 2026: prezzi al mq voce per voce</a> · <a href="/articoli/ristrutturazione-chiavi-in-mano.html">Ristrutturazione chiavi in mano: come funziona e quanto costa</a> · <a href="/articoli/costruire-casa-prefabbricata-costi.html">Costruire una casa prefabbricata: i costi reali nel 2026</a>.</p>
+<h3>Leggere il contesto dell’operazione</h3>
+<p>Approfondisci le informazioni di mercato e gli aspetti che riguardano l’immobile o l’operatore. <a href="/articoli/mercato-immobiliare-2026-prezzi.html">Mercato immobiliare 2026: prezzi, trend e città dove conviene investire</a> · <a href="/articoli/mutui-green-casa-efficiente.html">Mutui green: come funzionano e quanto si risparmia con una casa efficiente</a> · <a href="/articoli/rigenerazione-urbana-progetti-2026.html">Rigenerazione urbana: i grandi progetti che trasformano le città italiane</a> · <a href="/articoli/top-5-imprese-costruzione-italia.html">Le 5 maggiori imprese di costruzione in Italia: fatturati e cantieri</a>.</p>
+</section>
+<!-- editorial-reading-paths:end -->
+<div class="card-grid">
           <article class="card">
             <a href="../articoli/ristrutturazione-chiavi-in-mano.html"><div class="thumb t-mercato ar-3-2 has-img"><img class="thumb-img" src="../assets/covers/ristrutturazione-chiavi-in-mano.webp" alt="Mercato &amp; Immobiliare" loading="lazy" width="1200" height="630"><span class="thumb-label">Mercato &amp; Immobiliare</span></div></a>
             <div class="card-body">

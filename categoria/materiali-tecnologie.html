@@ -25,11 +25,23 @@
   <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="../css/comparatore.css">
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"CollectionPage",
-   "name":"Materiali & Tecnologie — Il Giornale Edile","url":"https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html",
-   "description":"Materiali innovativi, BIM, serramenti e tecnologie di cantiere: le soluzioni che stanno cambiando il modo di costruire.","inLanguage":"it-IT",
-   "isPartOf":{"@type":"WebSite","name":"Il Giornale Edile","url":"https://www.ilgiornaleedile.it/"}}
-  </script>
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Materiali & Tecnologie — Il Giornale Edile",
+  "url": "https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html",
+  "description": "Materiali innovativi, BIM, serramenti e tecnologie di cantiere: le soluzioni che stanno cambiando il modo di costruire.",
+  "inLanguage": "it-IT",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Il Giornale Edile",
+    "url": "https://www.ilgiornaleedile.it/"
+  },
+  "mainEntity": {
+    "@id": "https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html#articoli"
+  }
+}
+</script>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
    {"@type":"ListItem","position":1,"name":"Home","item":"https://www.ilgiornaleedile.it/"},
@@ -72,60 +84,62 @@
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
+  "@id": "https://www.ilgiornaleedile.it/categoria/materiali-tecnologie.html#articoli",
   "name": "Articoli — Materiali & Tecnologie",
+  "itemListOrder": "https://schema.org/ItemListUnordered",
   "numberOfItems": 8,
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "url": "https://www.ilgiornaleedile.it/articoli/bim-obbligatorio-scadenze.html",
-      "name": "BIM obbligatorio: scadenze e soglie 2026"
+      "name": "BIM obbligatorio: scadenze, soglie e cosa devono fare imprese e studi"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "url": "https://www.ilgiornaleedile.it/articoli/cappotto-termico-materiali-confronto.html",
-      "name": "Cappotto Termico: Guida ai Materiali"
+      "name": "Cappotto termico: EPS, lana di roccia o sughero? Materiali a confronto"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "url": "https://www.ilgiornaleedile.it/articoli/cemento-sostenibile-materiali.html",
-      "name": "Cemento Sostenibile: la Svolta Green"
+      "name": "Cemento sostenibile e materiali low-carbon: la rivoluzione del cantiere green"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "url": "https://www.ilgiornaleedile.it/articoli/domotica-smart-home-ristrutturazione.html",
-      "name": "Domotica e Smart Home: Guida e Costi"
+      "name": "Domotica e smart home in ristrutturazione: cosa prevedere e quanto costa"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "url": "https://www.ilgiornaleedile.it/articoli/edilizia-legno-xlam.html",
-      "name": "Edilizia in Legno XLAM: Guida e Costi"
+      "name": "Edilizia in legno e XLAM: perché conviene, costi e tempi di costruzione"
     },
     {
       "@type": "ListItem",
       "position": 6,
-      "url": "https://www.ilgiornaleedile.it/articoli/isolamento-interno-pareti-guida.html",
-      "name": "Isolamento Pareti dall'Interno: Guida"
+      "url": "https://www.ilgiornaleedile.it/articoli/top-5-software-bim.html",
+      "name": "I 5 migliori software BIM per l'edilizia: funzioni, costi e confronto"
     },
     {
       "@type": "ListItem",
       "position": 7,
-      "url": "https://www.ilgiornaleedile.it/articoli/stampa-3d-edilizia.html",
-      "name": "Stampa 3D in Edilizia: Come Funziona"
+      "url": "https://www.ilgiornaleedile.it/articoli/isolamento-interno-pareti-guida.html",
+      "name": "Isolare le pareti dall'interno: materiali, costi e errori da evitare nel 2026"
     },
     {
       "@type": "ListItem",
       "position": 8,
-      "url": "https://www.ilgiornaleedile.it/articoli/top-5-software-bim.html",
-      "name": "Migliori software BIM 2026: confronto"
+      "url": "https://www.ilgiornaleedile.it/articoli/stampa-3d-edilizia.html",
+      "name": "Stampa 3D in edilizia: case stampate, costi e stato dell'arte in Italia"
     }
   ]
 }
-  </script>
+</script>
 <!-- EIC analytics: local runtime, consent required; Google stays off until verified activation. -->
 <script defer src="/assets/tracking/analytics-config.js?v=800e37e0002e"></script>
 <script defer src="/assets/tracking/analytics-loader.js?v=7ea44b13faf6"></script>
@@ -184,7 +198,17 @@
 
     </header>
     <section class="section" aria-label="Articoli della categoria">
-      <div class="card-grid">
+      <!-- editorial-reading-paths:start -->
+<section class="cat-guide article-body" aria-labelledby="percorso-lettura">
+<h2 id="percorso-lettura">Da dove iniziare</h2>
+<p>Per confrontare materiali e strumenti, separa l’elemento dell’edificio dal processo di lavoro. Questi percorsi collegano le guide sui componenti alle letture sulla progettazione e sulle tecnologie impiegate.</p>
+<h3>Confrontare i materiali del progetto</h3>
+<p>Parti dall’elemento interessato e prepara un confronto delle soluzioni disponibili. <a href="/articoli/cappotto-termico-materiali-confronto.html">Cappotto termico: EPS, lana di roccia o sughero? Materiali a confronto</a> · <a href="/articoli/isolamento-interno-pareti-guida.html">Isolare le pareti dall'interno: materiali, costi e errori da evitare nel 2026</a> · <a href="/articoli/edilizia-legno-xlam.html">Edilizia in legno e XLAM: perché conviene, costi e tempi di costruzione</a> · <a href="/articoli/cemento-sostenibile-materiali.html">Cemento sostenibile e materiali low-carbon: la rivoluzione del cantiere green</a>.</p>
+<h3>Leggere processo e strumenti insieme</h3>
+<p>Per le tecnologie digitali e costruttive, collega il quadro generale alla guida dedicata. <a href="/articoli/bim-obbligatorio-scadenze.html">BIM obbligatorio: scadenze, soglie e cosa devono fare imprese e studi</a> · <a href="/articoli/top-5-software-bim.html">I 5 migliori software BIM per l'edilizia: funzioni, costi e confronto</a> · <a href="/articoli/domotica-smart-home-ristrutturazione.html">Domotica e smart home in ristrutturazione: cosa prevedere e quanto costa</a> · <a href="/articoli/stampa-3d-edilizia.html">Stampa 3D in edilizia: case stampate, costi e stato dell'arte in Italia</a>.</p>
+</section>
+<!-- editorial-reading-paths:end -->
+<div class="card-grid">
           <article class="card">
             <a href="../articoli/isolamento-interno-pareti-guida.html"><div class="thumb t-materiali ar-3-2 has-img"><img class="thumb-img" src="../assets/covers/isolamento-interno-pareti-guida.webp" alt="Materiali &amp; Tecnologie" loading="lazy" width="1200" height="630"><span class="thumb-label">Materiali &amp; Tecnologie</span></div></a>
             <div class="card-body">
