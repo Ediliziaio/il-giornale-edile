@@ -220,7 +220,7 @@ h1, h2, h3, h4 { font-family: var(--font-head); font-weight: 800; line-height: 1
 .share a:hover { background: var(--brand); border-color: var(--brand); color: #fff; }
 
 .article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 44px; max-width: 1240px; margin: 0 auto; padding: 0 20px; }
-.article-body { font-size: 18px; line-height: 1.8; max-width: 760px; }
+.article-body { font-size: 18px; line-height: 1.8; max-width: 760px; min-width: 0; }
 .article-body > p { margin: 0 0 1.3em; }
 .article-body h2 { font-size: 28px; margin: 1.6em 0 .6em; padding-top: 12px; }
 .article-body h3 { font-size: 22px; margin: 1.4em 0 .5em; }
