@@ -1,0 +1,8 @@
+﻿Esempi illustrativi Il Giornale Edile;Non sono tariffe correnti o risparmi garantiti;Esclusi investimento quote fisse manutenzione incentivi
+Scenario;Q termica kWh;Rendimento caldaia;Prezzo combustibile EUR/kWh;Rapporto stagionale pompa;Prezzo elettrico EUR/kWh;Energia combustibile kWh;Costo variabile caldaia EUR;Energia elettrica pompa kWh;Costo variabile pompa EUR
+A;12000;0,90;0,10;3;0,30;13333,333333;1333,333333;4000;1200
+B;12000;0,90;0,10;2,4;0,30;13333,333333;1333,333333;5000;1500
+C;12000;0,90;0,10;3;0,24;13333,333333;1333,333333;4000;960
+D;12000;0,90;0,10;3;0,36;13333,333333;1333,333333;4000;1440
+Pareggio solo costo variabile A;Rapporto stagionale = prezzo elettrico x rendimento caldaia / prezzo combustibile;2,7
+Mio scenario: fonte e data delle ipotesi;;;;;;;;;
